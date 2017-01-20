@@ -1,15 +1,7 @@
-FROM ubuntu:latest
-MAINTAINER Olivier Albiez <olivier.albiez@poloper.org>
+from tclavier/nginx
+add https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1-64bit.deb /tmp/
+run dpkg -i /tmp/hugo_0.18.1-64bit.deb
+add . /site
+run cd /site && /usr/bin/hugo --destination=/var/www
+add nginx_vhost.conf /etc/nginx/conf.d/codingdojo.conf
 
-ENV DEBIAN_FRONTEND noninteractive
-ENV HUGO_VERSION 0.17
-
-ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}-64bit.deb /tmp/hugo.deb
-RUN dpkg -i /tmp/hugo.deb
-
-COPY . /usr/src/site
-
-WORKDIR /usr/src/site
-EXPOSE 80
-
-CMD /usr/bin/hugo server --port 80 --bind 0.0.0.0
