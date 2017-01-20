@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header" . }}
+<body>
+
+    <header class="top">
+        <h1><a href=/>Coding Dojo</a></h1>
+        <nav>
+          <ul>
+            {{ range $section, $pages := .Site.Sections }}
+              {{ if ne $section "" }}
+                <li><a href="/{{ $section }}">{{ title $section }}</a></li>
+              {{ end }}
+            {{ end }}
+          </ul>
+        </nav>
+    </header>
+
+    <div class="card-row">
+
+      {{ range .Data.Pages }}
+      <div class="card">
+         <h2>{{ .Title }}</h2>
+         <!--
+           <div class="content">
+             {{ printf "%s" .Summary | markdownify }}
+           </div>
+         -->
+          <div class="content">
+            {{ .Summary }}
+          </div>
+          <div>
+              <a href="{{ .Permalink }}" class="button">read more</a>
+          </div>
+      </div>
+      {{ end }}
+
+</body>
+</html>
