@@ -19,7 +19,7 @@ a {
   line-height: 2em;
   text-decoration: none;
   padding: 10px;
-  border-radius: 1px;
+  border-radius: 3px;
 }
 
 /***************** cards layout ***********************/
@@ -54,6 +54,10 @@ a {
   padding: 10px;
 }
 
+.card-footer {
+  text-align: right;
+  padding-right: 10px;
+}
 /************** header nav ***************************/
 header.top {
   padding-left: 20px;
@@ -89,4 +93,23 @@ header.top nav ul li a {
 header.top h1 a {
   color: #f2f3f4;
   text-decoration: none;
+}
+
+/************** page ***************************/
+article.page {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+article.page .content {
+  padding-top: 60px;
+  max-width: 600px;
+}
+
+@media all and (max-width: 800px) {
+  article.page .content {
+    width: 80%;
+  }
 }

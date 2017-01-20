@@ -7,7 +7,7 @@
 
     <div class="card-row">
 
-      {{ range .Data.Pages }}
+      {{ range sort .Data.Pages "Title" }}
       <div class="card">
          <h2>{{ .Title }}</h2>
          <!--
@@ -18,7 +18,7 @@
           <div class="content">
             {{ .Summary }}
           </div>
-          <div>
+          <div class="card-footer">
               <a href="{{ .Permalink }}" class="button">read more</a>
           </div>
       </div>
