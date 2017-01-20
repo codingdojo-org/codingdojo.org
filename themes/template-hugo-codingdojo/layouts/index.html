@@ -1,4 +1,9 @@
-<header class="header">
-    {{ partial "header" . }}
-</header>
-
+<!DOCTYPE html>
+<html>
+{{ partial "head" . }}
+<body>
+  {{ partial "header" . }}
+  <article>
+    {{ .Content }}
+  </article>
+</body>
