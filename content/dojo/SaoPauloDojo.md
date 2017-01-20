@@ -13,6 +13,8 @@ Monday nights at the Institute of Mathematics and Statistics -
 University Of São Paulo (IME-USP). Join us at dojo\_sp@groups.google.com
 (mailling list in Portuguese).
 
+<!--more-->
+
 Session Reports
 ===============
 
