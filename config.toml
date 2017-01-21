@@ -1,22 +1,7 @@
 languageCode = "en-us"
 baseurl = "http://codingdojo.org/"
-title = "CodingDojo"
+title = "Coding Dojo"
 theme = "template-hugo-codingdojo"
 metadataformat = "yaml"
 canonifyurls = true
 
-
-[[menu.main]]
-	name   = "Katas"
-	url    = "kata/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Dojos"
-	url    = "dojo/"
-	weight = 10
-
-[[menu.main]]
-	name   = "Who's who"
-	url    = "people/"
-	weight = 20
