@@ -35,7 +35,7 @@ where the summary stops (from the beginning):
 
     <!--more-->
 
-
+(exactly like this, without spaces around more)
 
 ### People
 
@@ -44,5 +44,3 @@ and want it to be removed without having to clone/install,
 just open an issue and ask for the removal.
 
 
-
-(exactly like this, without spaces around more)
