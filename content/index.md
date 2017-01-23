@@ -1,14 +1,38 @@
 ---
-title: "CodingDojo"
+title: "Coding Dojo"
 draft: false
-date: "2012-09-02T18:13:00"
-aliases:
-  - "/cgi-bin/index.pl?CodingDojo"
+date: "2017-01-22T18:20:00"
+aliases: [/home,/greetings]
 type: index
 ---
     Welcome to the Coding Dojo site-to-be.
 
 ------------------------------------------------------------------------
+
+***JAN. 2,2017, New website.***
+
+Hi everyone,
+
+After some years frozen in time, we can again easily update the Coding Dojo website
+without any fear. Times changed and we have lots of information anywhere about katas and 
+coding dojos but it's still important to have a central point of information and that's
+why we updated this site. 
+
+It will take some time to update the content, add new, remove deprecated pages, contact groups and
+so on, but it's started and in progress. It's not any more a wiki but a much simpler engine base on 
+static markdown pages. 
+
+If you want to add something or help us with the cleaning: fork, clone, submit a PR and your
+ideas through issues to start the discussion. 
+
+Rui & Thomas
+
+
+
+----------------
+
+
+
 
 ***SEPT. 2, 2012 / NEW UPDATE.***
 
@@ -38,7 +62,7 @@ from perfect. But eventually we'll make it work better.
 
 Yours,
 
--- [EmmanuelGaillot](/people/EmmanuelGaillot) .
+-- [Emmanuel Gaillot](/people/EmmanuelGaillot) .
 
 ------------------------------------------------------------------------
 
@@ -47,19 +71,16 @@ Dojo global web site should provide to its user community. The wiki will
 provide "scaffolding" while the site grows in functionality to meet
 these requirements.
 
--   [WishList](/WishList) - if we could have anything we wanted, what
+-   [Wish List](/WishList) - if we could have anything we wanted, what
     would we want from a Coding Dojo global website?
 
 To start off, a directory of who we are and what exactly are we doing:
 
--   [WhatIsCodingDojo](/WhatIsCodingDojo)
--   [CodingDojos](/CodingDojos)
--   [WhosWho](/WhosWho)
--   [KataCatalogue](/KataCatalogue)
--   [MyFirstDojo](/MyFirstDojo) (some pragmatic suggestions for how a
+-   [What Is Coding Dojo](/WhatIsCodingDojo)
+-   [Coding Dojos](/CodingDojos)
+-   [Who's Who](/WhosWho)
+-   [Kata Catalogue](/KataCatalogue)
+-   [My First Dojo](/MyFirstDojo) (some pragmatic suggestions for how a
     Dojo might work)
 
-Programme for a workshop at XP2010 - see [KataWorkshop](/KataWorkshop)
-
-This is a UseMod instance - You need to use [\[UseMod
-Syntax\]](http://www.usemod.com/cgi-bin/wiki.pl?TextFormattingRules)
+Programme for a workshop at XP2010 - see [Kata Workshop](/KataWorkshop)
