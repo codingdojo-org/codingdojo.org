@@ -3,7 +3,7 @@ title: "DojoRules"
 draft: false
 date: "2009-07-19T19:43:00"
 aliases:
-  - "/cgi-bin/index.pl?DojoRules"
+  - "/DojoRules"
 
 ---
     Rules the [DojoModerator](/DojoModerator) should explain to dojo

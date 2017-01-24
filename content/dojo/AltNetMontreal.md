@@ -3,7 +3,7 @@ title: "AltNetMontreal"
 draft: false
 date: "2010-09-08T14:15:00"
 aliases:
-  - "/cgi-bin/index.pl?AltNetMontreal"
+  - "/AltNetMontreal"
 
 ---
     Alt.NET Montréal

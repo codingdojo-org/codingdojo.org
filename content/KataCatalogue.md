@@ -3,7 +3,7 @@ title: "KataCatalogue"
 draft: false
 date: "2014-11-13T16:26:00"
 aliases:
-  - "/cgi-bin/index.pl?KataCatalogue"
+  - "/KataCatalogue"
 
 ---
     This page is intended as a list of Kata exercises that people have tried

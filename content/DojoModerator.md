@@ -3,7 +3,7 @@ title: "DojoModerator"
 draft: false
 date: "2009-07-19T20:27:00"
 aliases:
-  - "/cgi-bin/index.pl?DojoModerator"
+  - "/DojoModerator"
 
 ---
     The [DojoModerator](/DojoModerator) is not a MasterProgrammer or

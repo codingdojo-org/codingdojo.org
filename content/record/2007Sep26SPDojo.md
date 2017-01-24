@@ -3,7 +3,7 @@ title: "2007Sep26SPDojo"
 draft: false
 date: "2007-09-27T03:36:00"
 aliases:
-  - "/cgi-bin/index.pl?2007Sep26SPDojo"
+  - "/2007Sep26SPDojo"
 
 ---
     **Participants:** BrenoFranco , [DaniloSato](/people/DaniloSato) ,

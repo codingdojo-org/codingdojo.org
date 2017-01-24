@@ -3,7 +3,7 @@ title: "RonRomero"
 draft: false
 date: "2010-05-28T20:54:00"
 aliases:
-  - "/cgi-bin/index.pl?RonRomero"
+  - "/RonRomero"
 
 ---
     Ron Romero is a programmer who's been working in the trenches for one

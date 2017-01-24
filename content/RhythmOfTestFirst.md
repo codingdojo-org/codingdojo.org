@@ -3,7 +3,7 @@ title: "RhythmOfTestFirst"
 draft: false
 date: "2010-04-27T22:05:00"
 aliases:
-  - "/cgi-bin/index.pl?RhythmOfTestFirst"
+  - "/RhythmOfTestFirst"
 
 ---
     -   Write UT for Particular [BabyStep](/BabyStep)

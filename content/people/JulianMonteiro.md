@@ -3,7 +3,7 @@ title: "JulianMonteiro"
 draft: false
 date: "2007-07-20T19:50:00"
 aliases:
-  - "/cgi-bin/index.pl?JulianMonteiro"
+  - "/JulianMonteiro"
 
 ---
     Software developer and agile enthusiast. Helped to organize the second

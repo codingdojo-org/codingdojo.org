@@ -3,7 +3,7 @@ title: "CyberDojo"
 draft: false
 date: "2010-12-22T18:10:00"
 aliases:
-  - "/cgi-bin/index.pl?CyberDojo"
+  - "/CyberDojo"
 
 ---
     Write Your Code and Tests in a Browser!

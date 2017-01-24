@@ -3,7 +3,7 @@ title: "2009Jan21DojoSEA"
 draft: false
 date: "2009-09-25T08:29:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Jan21DojoSEA"
+  - "/2009Jan21DojoSEA"
 
 ---
     Participantes: Bruno, Túlio, Carol, Adam, Célio.

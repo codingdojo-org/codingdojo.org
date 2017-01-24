@@ -3,7 +3,7 @@ title: "IvanSanchez"
 draft: false
 date: "2007-05-14T18:45:00"
 aliases:
-  - "/cgi-bin/index.pl?IvanSanchez"
+  - "/IvanSanchez"
 
 ---
     I'm a simple software developer. Ok, software development may not be a

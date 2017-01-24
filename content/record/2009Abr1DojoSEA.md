@@ -3,7 +3,7 @@ title: "2009Abr1DojoSEA"
 draft: false
 date: "2009-04-01T22:03:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Abr1DojoSEA"
+  - "/2009Abr1DojoSEA"
 
 ---
     \[Bruno e Carol\] Tentam resolver problema com linha a mais. Comeуaram

@@ -3,7 +3,7 @@ title: "KataGameOfLife"
 draft: false
 date: "2014-11-14T00:12:00"
 aliases:
-  - "/cgi-bin/index.pl?KataGameOfLife"
+  - "/KataGameOfLife"
 
 ---
     **About this Kata**

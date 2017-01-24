@@ -3,7 +3,7 @@ title: "ParisDojo"
 draft: false
 date: "2011-03-04T04:02:00"
 aliases:
-  - "/cgi-bin/index.pl?ParisDojo"
+  - "/ParisDojo"
 
 ---
     Paris Dojo

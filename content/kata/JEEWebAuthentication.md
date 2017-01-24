@@ -3,7 +3,7 @@ title: "KataJEEWebAuthentication"
 draft: false
 date: "2010-10-28T12:25:00"
 aliases:
-  - "/cgi-bin/index.pl?KataJEEWebAuthentication"
+  - "/KataJEEWebAuthentication"
 
 ---
     Background

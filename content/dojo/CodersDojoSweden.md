@@ -3,7 +3,7 @@ title: "CodersDojoSweden"
 draft: false
 date: "2008-10-07T06:54:00"
 aliases:
-  - "/cgi-bin/index.pl?CodersDojoSweden"
+  - "/CodersDojoSweden"
 
 ---
     Coders Dojo Sweden started in October 2006.

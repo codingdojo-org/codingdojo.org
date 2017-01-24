@@ -3,7 +3,7 @@ title: "EmilyBache"
 draft: false
 date: "2008-10-05T19:11:00"
 aliases:
-  - "/cgi-bin/index.pl?EmilyBache"
+  - "/EmilyBache"
 
 ---
     I am a software developer, based in Gothenburg, Sweden. I often lead

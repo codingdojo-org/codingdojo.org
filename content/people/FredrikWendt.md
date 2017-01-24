@@ -3,7 +3,7 @@ title: "FredrikWendt"
 draft: false
 date: "2010-03-11T16:32:00"
 aliases:
-  - "/cgi-bin/index.pl?FredrikWendt"
+  - "/FredrikWendt"
 
 ---
     Works for Iptor Konsult AB. Business card says "Java Consultant".

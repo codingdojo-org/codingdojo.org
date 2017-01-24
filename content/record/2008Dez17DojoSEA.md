@@ -3,7 +3,7 @@ title: "2008Dez17DojoSEA"
 draft: false
 date: "2008-12-17T22:06:00"
 aliases:
-  - "/cgi-bin/index.pl?2008Dez17DojoSEA"
+  - "/2008Dez17DojoSEA"
 
 ---
     Presentes: Bruno (participou da metade) Tulio Carol (nгo programou,

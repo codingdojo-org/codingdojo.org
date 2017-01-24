@@ -3,7 +3,7 @@ title: "KataNumberToLCD"
 draft: false
 date: "2009-11-04T19:25:00"
 aliases:
-  - "/cgi-bin/index.pl?KataNumberToLCD"
+  - "/KataNumberToLCD"
 
 ---
     I saw a screen cast that Corey Haines did on this at

@@ -3,7 +3,7 @@ title: "KataTemplate"
 draft: false
 date: "2010-08-18T07:14:00"
 aliases:
-  - "/cgi-bin/index.pl?KataTemplate"
+  - "/KataTemplate"
 
 ---
     This page should serve as a template explaining the format to use when

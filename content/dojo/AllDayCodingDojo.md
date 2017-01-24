@@ -3,7 +3,7 @@ title: "AllDayCodingDojo"
 draft: false
 date: "2009-02-25T16:24:00"
 aliases:
-  - "/cgi-bin/index.pl?AllDayCodingDojo"
+  - "/AllDayCodingDojo"
 
 ---
     "All Day Coding Dojo" is a tem coined by

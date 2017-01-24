@@ -3,7 +3,7 @@ title: "JonJagger"
 draft: false
 date: "2012-09-02T17:18:00"
 aliases:
-  - "/cgi-bin/index.pl?JonJagger"
+  - "/JonJagger"
 
 ---
     -   Hi I'm Jon Jagger

@@ -3,7 +3,7 @@ title: "LessonsLearned"
 draft: false
 date: "2010-09-08T14:20:00"
 aliases:
-  - "/cgi-bin/index.pl?LessonsLearned"
+  - "/LessonsLearned"
 
 ---
     Many people around the world have been running coding dojos for several

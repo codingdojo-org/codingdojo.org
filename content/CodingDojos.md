@@ -3,7 +3,7 @@ title: "CodingDojos"
 draft: false
 date: "2013-11-24T15:27:00"
 aliases:
-  - "/cgi-bin/index.pl?CodingDojos"
+  - "/CodingDojos"
 
 ---
     Check the locations of the dojos at:

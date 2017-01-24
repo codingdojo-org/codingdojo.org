@@ -3,7 +3,7 @@ title: "2009Jun10DojoSEA"
 draft: false
 date: "2009-06-15T17:55:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Jun10DojoSEA"
+  - "/2009Jun10DojoSEA"
 
 ---
     bruno e tulio: tentaram por o ambiente de testes para funcionar

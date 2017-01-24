@@ -3,7 +3,7 @@ title: "DeLucasLaw"
 draft: false
 date: "2010-08-02T07:33:00"
 aliases:
-  - "/cgi-bin/index.pl?DeLucasLaw"
+  - "/DeLucasLaw"
 
 ---
     Jeff De Luca coined this law. It says

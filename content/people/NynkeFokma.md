@@ -3,7 +3,7 @@ title: "NynkeFokma"
 draft: false
 date: "2009-12-06T19:49:00"
 aliases:
-  - "/cgi-bin/index.pl?NynkeFokma"
+  - "/NynkeFokma"
 
 ---
     I am a facilitator, consultant, and systems architect from the

@@ -3,7 +3,7 @@ title: "AvoidDojoFizzleOut"
 draft: false
 date: "2009-07-19T20:16:00"
 aliases:
-  - "/cgi-bin/index.pl?AvoidDojoFizzleOut"
+  - "/AvoidDojoFizzleOut"
 
 ---
     Some people experience their dojos fizzle out and people stop coming

@@ -3,7 +3,7 @@ title: "NathanTuggy"
 draft: false
 date: "2008-09-15T21:23:00"
 aliases:
-  - "/cgi-bin/index.pl?NathanTuggy"
+  - "/NathanTuggy"
 
 ---
     Hi! I'm planning to make some minor changes, copyediting and such like,

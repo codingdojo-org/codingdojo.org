@@ -3,7 +3,7 @@ title: "JezNicholson"
 draft: false
 date: "2009-02-25T16:26:00"
 aliases:
-  - "/cgi-bin/index.pl?JezNicholson"
+  - "/JezNicholson"
 
 ---
     I have been a frequent attendee of [JohannaHunt](/people/JohannaHunt) 's

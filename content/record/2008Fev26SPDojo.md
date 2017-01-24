@@ -3,7 +3,7 @@ title: "2008Fev26SPDojo"
 draft: false
 date: "2008-03-19T15:54:00"
 aliases:
-  - "/cgi-bin/index.pl?2008Fev26SPDojo"
+  - "/2008Fev26SPDojo"
 
 ---
     **Participants:** [FabricioSousa](/FabricioSousa) ,

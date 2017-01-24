@@ -3,7 +3,7 @@ title: "KataRange"
 draft: false
 date: "2009-12-08T04:09:00"
 aliases:
-  - "/cgi-bin/index.pl?KataRange"
+  - "/KataRange"
 
 ---
     Range has a lot of nifty issues.

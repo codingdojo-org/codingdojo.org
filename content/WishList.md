@@ -3,7 +3,7 @@ title: "WishList"
 draft: false
 date: "2011-01-20T12:52:00"
 aliases:
-  - "/cgi-bin/index.pl?WishList"
+  - "/WishList"
 
 ---
     ### General

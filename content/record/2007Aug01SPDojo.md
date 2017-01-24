@@ -3,7 +3,7 @@ title: "2007Aug01SPDojo"
 draft: false
 date: "2007-09-08T20:37:00"
 aliases:
-  - "/cgi-bin/index.pl?2007Aug01SPDojo"
+  - "/2007Aug01SPDojo"
 
 ---
     **Participants:** AlexandreFreire , BrunoGola ,

@@ -3,7 +3,7 @@ title: "KataAnagram"
 draft: false
 date: "2009-02-08T19:58:00"
 aliases:
-  - "/cgi-bin/index.pl?KataAnagram"
+  - "/KataAnagram"
 
 ---
     **About this Kata**

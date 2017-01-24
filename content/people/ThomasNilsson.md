@@ -3,7 +3,7 @@ title: "ThomasNilsson"
 draft: false
 date: "2008-10-07T06:47:00"
 aliases:
-  - "/cgi-bin/index.pl?ThomasNilsson"
+  - "/ThomasNilsson"
 
 ---
     I am the CTO of Responsive Development Technologies in Linköping,

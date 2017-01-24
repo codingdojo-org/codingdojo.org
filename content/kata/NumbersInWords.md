@@ -3,7 +3,7 @@ title: "KataNumbersInWords"
 draft: false
 date: "2013-12-28T16:14:00"
 aliases:
-  - "/cgi-bin/index.pl?KataNumbersInWords"
+  - "/KataNumbersInWords"
 
 ---
     Problem Description

@@ -3,7 +3,7 @@ title: "KataWorkshop"
 draft: false
 date: "2010-12-07T08:36:00"
 aliases:
-  - "/cgi-bin/index.pl?KataWorkshop"
+  - "/KataWorkshop"
 
 ---
     Following the success of a similar workshop at XP2009, I would like to

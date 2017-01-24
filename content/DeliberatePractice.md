@@ -3,7 +3,7 @@ title: "DeliberatePractice"
 draft: false
 date: "2011-03-05T17:29:00"
 aliases:
-  - "/cgi-bin/index.pl?DeliberatePractice"
+  - "/DeliberatePractice"
 
 ---
     When Dave Thomas introduced the idea of code katas it was in the context

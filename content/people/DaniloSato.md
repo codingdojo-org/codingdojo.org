@@ -3,7 +3,7 @@ title: "DaniloSato"
 draft: false
 date: "2008-03-16T18:30:00"
 aliases:
-  - "/cgi-bin/index.pl?DaniloSato"
+  - "/DaniloSato"
 
 ---
     Software developer and consultant at ThoughtWorks UK

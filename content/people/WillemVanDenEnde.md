@@ -3,7 +3,7 @@ title: "WillemVanDenEnde"
 draft: false
 date: "2009-06-16T10:41:00"
 aliases:
-  - "/cgi-bin/index.pl?WillemVanDenEnde"
+  - "/WillemVanDenEnde"
 
 ---
     I develop software on-and-off (coaching clients on test driven

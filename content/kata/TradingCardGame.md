@@ -3,7 +3,7 @@ title: "KataTradingCardGame"
 draft: false
 date: "2014-11-13T16:32:00"
 aliases:
-  - "/cgi-bin/index.pl?KataTradingCardGame"
+  - "/KataTradingCardGame"
 
 ---
     About this Kata

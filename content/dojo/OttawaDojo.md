@@ -3,7 +3,7 @@ title: "OttawaDojo"
 draft: false
 date: "2007-11-01T16:22:00"
 aliases:
-  - "/cgi-bin/index.pl?OttawaDojo"
+  - "/OttawaDojo"
 
 ---
     This [CodingDojo](/CodingDojo) in Ottawa convenes twice a week in the

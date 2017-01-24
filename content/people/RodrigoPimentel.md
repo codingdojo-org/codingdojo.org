@@ -3,7 +3,7 @@ title: "RodrigoPimentel"
 draft: false
 date: "2007-09-08T20:34:00"
 aliases:
-  - "/cgi-bin/index.pl?RodrigoPimentel"
+  - "/RodrigoPimentel"
 
 ---
     Programmer and Python enthusiast. Invited by

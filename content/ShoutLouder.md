@@ -3,7 +3,7 @@ title: "ShoutLouder"
 draft: false
 date: "2010-07-18T13:16:00"
 aliases:
-  - "/cgi-bin/index.pl?ShoutLouder"
+  - "/ShoutLouder"
 
 ---
     an (anti-pattern, is it one?) mechanism for switching the pair at the

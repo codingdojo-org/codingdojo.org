@@ -3,7 +3,7 @@ title: "BjoernKimminich"
 draft: false
 date: "2014-11-13T16:34:00"
 aliases:
-  - "/cgi-bin/index.pl?BjoernKimminich"
+  - "/BjoernKimminich"
 
 ---
     I am from Hamburg, Germany and my primary work is being a Software

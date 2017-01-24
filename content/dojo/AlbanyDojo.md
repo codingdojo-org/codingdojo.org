@@ -3,7 +3,7 @@ title: "AlbanyDojo"
 draft: false
 date: "2007-08-06T16:41:00"
 aliases:
-  - "/cgi-bin/index.pl?AlbanyDojo"
+  - "/AlbanyDojo"
 
 ---
     The Albany, NY Coding Dojo.

@@ -3,7 +3,7 @@ title: "PingPong"
 draft: false
 date: "2011-01-07T08:28:00"
 aliases:
-  - "/cgi-bin/index.pl?PingPong"
+  - "/PingPong"
 
 ---
     A mechanism for switching the pair at the keyboard when doing a

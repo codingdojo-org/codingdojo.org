@@ -3,7 +3,7 @@ title: "BrightonDojo"
 draft: false
 date: "2007-08-20T15:39:00"
 aliases:
-  - "/cgi-bin/index.pl?BrightonDojo"
+  - "/BrightonDojo"
 
 ---
     The Brighton Coding Dojo group meets fortnightly in Brighton, UK. We

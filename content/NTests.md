@@ -3,7 +3,7 @@ title: "NTests"
 draft: false
 date: "2007-09-05T13:42:00"
 aliases:
-  - "/cgi-bin/index.pl?NTests"
+  - "/NTests"
 
 ---
     A mechanism for switching the pair at the keyboard when doing a

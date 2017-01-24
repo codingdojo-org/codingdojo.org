@@ -3,7 +3,7 @@ title: "DojoRoles"
 draft: false
 date: "2010-12-25T05:10:00"
 aliases:
-  - "/cgi-bin/index.pl?DojoRoles"
+  - "/DojoRoles"
 
 ---
     [DojoRoles](/DojoRoles) : [DojoOrganizer](/DojoOrganizer) and

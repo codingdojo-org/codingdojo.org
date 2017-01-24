@@ -3,7 +3,7 @@ title: "CodingDojoPrinciples"
 draft: false
 date: "2011-01-07T04:11:00"
 aliases:
-  - "/cgi-bin/index.pl?CodingDojoPrinciples"
+  - "/CodingDojoPrinciples"
 
 ---
     *(extracted from the Laurent Bossavit's Blog:

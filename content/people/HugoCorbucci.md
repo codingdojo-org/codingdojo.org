@@ -3,7 +3,7 @@ title: "HugoCorbucci"
 draft: false
 date: "2010-05-13T02:51:00"
 aliases:
-  - "/cgi-bin/index.pl?HugoCorbucci"
+  - "/HugoCorbucci"
 
 ---
     I am a software developer, based in Sao Paulo, Brazil. My first contact

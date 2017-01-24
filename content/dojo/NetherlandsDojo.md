@@ -3,7 +3,7 @@ title: "NetherlandsDojo"
 draft: false
 date: "2009-11-04T13:48:00"
 aliases:
-  - "/cgi-bin/index.pl?NetherlandsDojo"
+  - "/NetherlandsDojo"
 
 ---
     Dutch Coding dojo convenes irregularly, there is a yahoo group

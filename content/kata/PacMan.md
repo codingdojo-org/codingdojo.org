@@ -3,7 +3,7 @@ title: "KataPacMan"
 draft: false
 date: "2010-07-09T16:49:00"
 aliases:
-  - "/cgi-bin/index.pl?KataPacMan"
+  - "/KataPacMan"
 
 ---
     **About this Kata**

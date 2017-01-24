@@ -3,7 +3,7 @@ title: "KataGreed"
 draft: false
 date: "2010-07-11T22:18:00"
 aliases:
-  - "/cgi-bin/index.pl?KataGreed"
+  - "/KataGreed"
 
 ---
     <http://en.wikipedia.org/wiki/Greed_%28dice_game%29>

@@ -3,7 +3,7 @@ title: "WhatIsCodingDojo"
 draft: false
 date: "2012-09-02T16:59:00"
 aliases:
-  - "/cgi-bin/index.pl?WhatIsCodingDojo"
+  - "/WhatIsCodingDojo"
 
 ---
     Definition

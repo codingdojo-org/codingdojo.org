@@ -3,7 +3,7 @@ title: "LasseKoskela"
 draft: false
 date: "2007-05-14T12:36:00"
 aliases:
-  - "/cgi-bin/index.pl?LasseKoskela"
+  - "/LasseKoskela"
 
 ---
     I'm a consultant, coach and trainer, based in Helsinki, Finland. Most of

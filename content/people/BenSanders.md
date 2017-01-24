@@ -3,7 +3,7 @@ title: "BenSanders"
 draft: false
 date: "2008-10-08T16:49:00"
 aliases:
-  - "/cgi-bin/index.pl?BenSanders"
+  - "/BenSanders"
 
 ---
     I'm a developer at [YouDevise](/dojo/YouDevise) (www.youdevise.com) in

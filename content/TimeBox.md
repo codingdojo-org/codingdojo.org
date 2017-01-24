@@ -3,7 +3,7 @@ title: "TimeBox"
 draft: false
 date: "2007-09-05T13:38:00"
 aliases:
-  - "/cgi-bin/index.pl?TimeBox"
+  - "/TimeBox"
 
 ---
     A mechanism for switching the pair at the keyboard when doing a

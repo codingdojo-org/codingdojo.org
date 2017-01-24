@@ -3,7 +3,7 @@ title: "PhilippeBlayo"
 draft: false
 date: "2011-01-06T19:32:00"
 aliases:
-  - "/cgi-bin/index.pl?PhilippeBlayo"
+  - "/PhilippeBlayo"
 
 ---
     Software developer in Paris, France.

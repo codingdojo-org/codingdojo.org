@@ -3,7 +3,7 @@ title: "2009Mai20DojoSEA"
 draft: false
 date: "2009-05-21T20:20:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Mai20DojoSEA"
+  - "/2009Mai20DojoSEA"
 
 ---
     - O que fazer nesse dojo: Mudanзa de arquitura? Necessita ainda mais

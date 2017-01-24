@@ -3,7 +3,7 @@ title: "AndreasLarsson"
 draft: false
 date: "2009-06-06T19:42:00"
 aliases:
-  - "/cgi-bin/index.pl?AndreasLarsson"
+  - "/AndreasLarsson"
 
 ---
     "Playing Coach" at Responsive Development Technologies.

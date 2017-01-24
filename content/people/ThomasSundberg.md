@@ -3,7 +3,7 @@ title: "ThomasSundberg"
 draft: false
 date: "2011-12-20T23:26:00"
 aliases:
-  - "/cgi-bin/index.pl?ThomasSundberg"
+  - "/ThomasSundberg"
 
 ---
     I'm a developer at Sigma.

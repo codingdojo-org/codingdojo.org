@@ -3,7 +3,7 @@ title: "2009Fev11DojoSEA"
 draft: false
 date: "2009-02-18T20:41:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Fev11DojoSEA"
+  - "/2009Fev11DojoSEA"
 
 ---
     Voltamos ao plano: Quadradсo (X) Brancos:

@@ -3,7 +3,7 @@ title: "RandoriKata"
 draft: false
 date: "2012-07-07T15:03:00"
 aliases:
-  - "/cgi-bin/index.pl?RandoriKata"
+  - "/RandoriKata"
 
 ---
     By some means the group decides on a Kata to work on, perhaps the

@@ -3,7 +3,7 @@ title: "KataTennis"
 draft: false
 date: "2011-02-22T14:30:00"
 aliases:
-  - "/cgi-bin/index.pl?KataTennis"
+  - "/KataTennis"
 
 ---
     **About this Kata**

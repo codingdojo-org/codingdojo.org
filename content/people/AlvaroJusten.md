@@ -3,7 +3,7 @@ title: "AlvaroJusten"
 draft: false
 date: "2011-03-04T04:12:00"
 aliases:
-  - "/cgi-bin/index.pl?AlvaroJusten"
+  - "/AlvaroJusten"
 
 ---
     Álvaro Justen

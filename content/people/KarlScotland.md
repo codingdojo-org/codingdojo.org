@@ -3,7 +3,7 @@ title: "KarlScotland"
 draft: false
 date: "2010-07-31T21:06:00"
 aliases:
-  - "/cgi-bin/index.pl?KarlScotland"
+  - "/KarlScotland"
 
 ---
     Currently working at Yahoo! Europe and running a Coding Dojo internally,

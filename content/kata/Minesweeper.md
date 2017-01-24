@@ -3,7 +3,7 @@ title: "KataMinesweeper"
 draft: false
 date: "2014-11-02T12:46:00"
 aliases:
-  - "/cgi-bin/index.pl?KataMinesweeper"
+  - "/KataMinesweeper"
 
 ---
     **About this Kata**

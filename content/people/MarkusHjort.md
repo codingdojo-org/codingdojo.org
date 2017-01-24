@@ -3,7 +3,7 @@ title: "MarkusHjort"
 draft: false
 date: "2007-05-17T18:34:00"
 aliases:
-  - "/cgi-bin/index.pl?MarkusHjort"
+  - "/MarkusHjort"
 
 ---
     I am a software developer, based in Helsinki, Finland. I first got

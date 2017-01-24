@@ -3,7 +3,7 @@ title: "2009Jan7DojoSEA"
 draft: false
 date: "2009-01-13T16:26:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Jan7DojoSEA"
+  - "/2009Jan7DojoSEA"
 
 ---
     Participantes: Bruno, Cйlio, Fernando (Ouvinte), Laurindo, Alexandre

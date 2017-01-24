@@ -3,7 +3,7 @@ title: "BabySteps"
 draft: false
 date: "2011-01-07T20:34:00"
 aliases:
-  - "/cgi-bin/index.pl?BabySteps"
+  - "/BabySteps"
 
 ---
     The next step to take should always be as small as possible.

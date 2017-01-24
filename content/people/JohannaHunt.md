@@ -3,7 +3,7 @@ title: "JohannaHunt"
 draft: false
 date: "2009-02-25T16:14:00"
 aliases:
-  - "/cgi-bin/index.pl?JohannaHunt"
+  - "/JohannaHunt"
 
 ---
     I'm a researcher, looking at communication in agile teams, based in

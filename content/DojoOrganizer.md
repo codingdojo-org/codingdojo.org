@@ -3,7 +3,7 @@ title: "DojoOrganizer"
 draft: false
 date: "2007-09-06T09:00:00"
 aliases:
-  - "/cgi-bin/index.pl?DojoOrganizer"
+  - "/DojoOrganizer"
 
 ---
     Someone needs to take care of the practical details, ie things like

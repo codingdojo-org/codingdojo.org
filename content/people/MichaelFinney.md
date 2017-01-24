@@ -3,7 +3,7 @@ title: "MichaelFinney"
 draft: false
 date: "2008-08-16T17:00:00"
 aliases:
-  - "/cgi-bin/index.pl?MichaelFinney"
+  - "/MichaelFinney"
 
 ---
     Happy to Help, Michael Finney at your service. Search for the three

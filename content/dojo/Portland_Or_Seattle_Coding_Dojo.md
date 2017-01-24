@@ -3,7 +3,7 @@ title: "Portland_Or_Seattle_Coding_Dojo"
 draft: false
 date: "2010-05-15T17:40:00"
 aliases:
-  - "/cgi-bin/index.pl?Portland_Or_Seattle_Coding_Dojo"
+  - "/Portland_Or_Seattle_Coding_Dojo"
 
 ---
     I am not aware of any Portland or Seattle area coding dojos, but I am

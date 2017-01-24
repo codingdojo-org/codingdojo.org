@@ -3,7 +3,7 @@ title: "KataBankOCR"
 draft: false
 date: "2011-02-22T09:45:00"
 aliases:
-  - "/cgi-bin/index.pl?KataBankOCR"
+  - "/KataBankOCR"
 
 ---
     This Kata was presented at XP2006 by

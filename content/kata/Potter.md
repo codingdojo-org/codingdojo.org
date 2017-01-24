@@ -3,7 +3,7 @@ title: "KataPotter"
 draft: false
 date: "2011-02-28T23:06:00"
 aliases:
-  - "/cgi-bin/index.pl?KataPotter"
+  - "/KataPotter"
 
 ---
     If you want to try this Kata for yourself or at your dojo meeting, read

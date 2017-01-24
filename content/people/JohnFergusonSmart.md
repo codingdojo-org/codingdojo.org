@@ -3,7 +3,7 @@ title: "JohnFergusonSmart"
 draft: false
 date: "2010-08-04T08:27:00"
 aliases:
-  - "/cgi-bin/index.pl?JohnFergusonSmart"
+  - "/JohnFergusonSmart"
 
 ---
     Hi, my name is John Smart. I run [\[Wakaleo

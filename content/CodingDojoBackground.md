@@ -3,7 +3,7 @@ title: "CodingDojoBackground"
 draft: false
 date: "2009-10-03T15:38:00"
 aliases:
-  - "/cgi-bin/index.pl?CodingDojoBackground"
+  - "/CodingDojoBackground"
 
 ---
     -   In the beginning was PragmaticDave, who came up with the idea of

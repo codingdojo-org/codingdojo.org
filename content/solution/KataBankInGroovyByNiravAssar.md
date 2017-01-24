@@ -3,7 +3,7 @@ title: "KataBankInGroovyByNiravAssar"
 draft: false
 date: "2010-10-25T13:42:00"
 aliases:
-  - "/cgi-bin/index.pl?KataBankInGroovyByNiravAssar"
+  - "/KataBankInGroovyByNiravAssar"
 
 ---
     This was a solution I did in groovy. I have posted the entire package on

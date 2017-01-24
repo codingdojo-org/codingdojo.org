@@ -3,7 +3,7 @@ title: "OkcDojo"
 draft: false
 date: "2009-10-17T13:40:00"
 aliases:
-  - "/cgi-bin/index.pl?OkcDojo"
+  - "/OkcDojo"
 
 ---
     The Oklahoma City Coding Dojo does not currently have a website, we do

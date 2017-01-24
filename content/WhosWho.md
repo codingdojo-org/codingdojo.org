@@ -3,7 +3,7 @@ title: "WhosWho"
 draft: false
 date: "2012-09-02T17:52:00"
 aliases:
-  - "/cgi-bin/index.pl?WhosWho"
+  - "/WhosWho"
 
 ---
     This is a list of people involved in or contributing to this wiki. Feel

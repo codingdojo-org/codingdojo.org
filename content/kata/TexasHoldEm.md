@@ -3,7 +3,7 @@ title: "KataTexasHoldEm"
 draft: false
 date: "2012-09-02T17:36:00"
 aliases:
-  - "/cgi-bin/index.pl?KataTexasHoldEm"
+  - "/KataTexasHoldEm"
 
 ---
     by Matthew D Moss, blatantly stolen from www.rubyquiz.com/quiz24.html

@@ -3,7 +3,7 @@ title: "KataRomanNumeralsAsReadableAsWeCouldMakeIt"
 draft: false
 date: "2008-10-07T19:40:00"
 aliases:
-  - "/cgi-bin/index.pl?KataRomanNumeralsAsReadableAsWeCouldMakeIt"
+  - "/KataRomanNumeralsAsReadableAsWeCouldMakeIt"
 
 ---
         #!/usr/bin/env python

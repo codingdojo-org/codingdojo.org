@@ -3,7 +3,7 @@ title: "SetExpectations"
 draft: false
 date: "2012-09-02T17:49:00"
 aliases:
-  - "/cgi-bin/index.pl?SetExpectations"
+  - "/SetExpectations"
 
 ---
     -   Begin each meeting with an introduction to the format and intended

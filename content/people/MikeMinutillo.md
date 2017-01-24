@@ -3,7 +3,7 @@ title: "MikeMinutillo"
 draft: false
 date: "2008-11-03T12:54:00"
 aliases:
-  - "/cgi-bin/index.pl?MikeMinutillo"
+  - "/MikeMinutillo"
 
 ---
     Mike is a consultant / technical team lead living in Perth, Western

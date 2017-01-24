@@ -3,7 +3,7 @@ title: "KataFizzBuzzSmalltalkSolution"
 draft: false
 date: "2011-02-18T19:12:00"
 aliases:
-  - "/cgi-bin/index.pl?KataFizzBuzzSmalltalkSolution"
+  - "/KataFizzBuzzSmalltalkSolution"
 
 ---
         fb := [:counter| |rules|

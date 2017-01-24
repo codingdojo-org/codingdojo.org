@@ -3,7 +3,7 @@ title: "KataArgs"
 draft: false
 date: "2011-01-17T13:34:00"
 aliases:
-  - "/cgi-bin/index.pl?KataArgs"
+  - "/KataArgs"
 
 ---
     **About this Kata**

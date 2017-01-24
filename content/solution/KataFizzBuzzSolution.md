@@ -3,7 +3,7 @@ title: "KataFizzBuzzSolution"
 draft: false
 date: "2010-03-27T06:07:00"
 aliases:
-  - "/cgi-bin/index.pl?KataFizzBuzzSolution"
+  - "/KataFizzBuzzSolution"
 
 ---
     This my solution to the [KataFizzBuzz](/kata/FizzBuzz) , with the added

@@ -3,7 +3,7 @@ title: "DojoBook"
 draft: false
 date: "2012-09-02T17:15:00"
 aliases:
-  - "/cgi-bin/index.pl?DojoBook"
+  - "/DojoBook"
 
 ---
     When I first talked to [LaurentBossavit](/people/LaurentBossavit) about

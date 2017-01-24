@@ -3,7 +3,7 @@ title: "DanConnolly"
 draft: false
 date: "2012-09-02T17:13:00"
 aliases:
-  - "/cgi-bin/index.pl?DanConnolly"
+  - "/DanConnolly"
 
 ---
     A colleague of mine referred me to this site in preparation for a

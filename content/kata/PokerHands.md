@@ -3,7 +3,7 @@ title: "KataPokerHands"
 draft: false
 date: "2012-09-02T17:25:00"
 aliases:
-  - "/cgi-bin/index.pl?KataPokerHands"
+  - "/KataPokerHands"
 
 ---
     **About this Kata**

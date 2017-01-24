@@ -3,7 +3,7 @@ title: "GothenburgRubyUserGroup"
 draft: false
 date: "2007-09-28T12:07:00"
 aliases:
-  - "/cgi-bin/index.pl?GothenburgRubyUserGroup"
+  - "/GothenburgRubyUserGroup"
 
 ---
     Gothenburg Ruby User Group

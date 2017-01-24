@@ -3,7 +3,7 @@ title: "2009Jul27DojoSEA"
 draft: false
 date: "2009-07-27T22:24:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Jul27DojoSEA"
+  - "/2009Jul27DojoSEA"
 
 ---
     Problema do placar do boliche (Bruno mandou um PDF retirado de um artigo

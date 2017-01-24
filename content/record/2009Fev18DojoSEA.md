@@ -3,7 +3,7 @@ title: "2009Fev18DojoSEA"
 draft: false
 date: "2009-02-18T22:00:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Fev18DojoSEA"
+  - "/2009Fev18DojoSEA"
 
 ---
     Dojo-SEA - crosswords - 18/02/2009

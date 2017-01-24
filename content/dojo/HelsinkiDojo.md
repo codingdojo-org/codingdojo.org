@@ -3,7 +3,7 @@ title: "HelsinkiDojo"
 draft: false
 date: "2008-03-28T14:17:00"
 aliases:
-  - "/cgi-bin/index.pl?HelsinkiDojo"
+  - "/HelsinkiDojo"
 
 ---
     The event was brought to Helsinki, Finland for the first time on

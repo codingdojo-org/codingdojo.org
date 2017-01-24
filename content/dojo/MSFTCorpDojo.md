@@ -3,7 +3,7 @@ title: "MSFTCorpDojo"
 draft: false
 date: "2009-05-21T04:17:00"
 aliases:
-  - "/cgi-bin/index.pl?MSFTCorpDojo"
+  - "/MSFTCorpDojo"
 
 ---
     This dojo is organized for people that work for/at Microsoft in Redmond,

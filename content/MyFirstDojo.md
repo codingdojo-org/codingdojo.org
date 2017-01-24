@@ -3,7 +3,7 @@ title: "MyFirstDojo"
 draft: false
 date: "2010-12-25T04:55:00"
 aliases:
-  - "/cgi-bin/index.pl?MyFirstDojo"
+  - "/MyFirstDojo"
 
 ---
     Pragmatic suggestions for how you host a coding dojo event.

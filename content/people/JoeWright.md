@@ -3,7 +3,7 @@ title: "JoeWright"
 draft: false
 date: "2012-09-02T17:17:00"
 aliases:
-  - "/cgi-bin/index.pl?JoeWright"
+  - "/JoeWright"
 
 ---
     I've been running Coding Dojos and Code Retreats across Scotland since

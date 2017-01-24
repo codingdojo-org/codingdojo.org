@@ -3,7 +3,7 @@ title: "TestDrivenDevelopment"
 draft: false
 date: "2012-09-02T17:51:00"
 aliases:
-  - "/cgi-bin/index.pl?TestDrivenDevelopment"
+  - "/TestDrivenDevelopment"
 
 ---
     [TestDrivenDevelopment](/TestDrivenDevelopment) is a way of working, or

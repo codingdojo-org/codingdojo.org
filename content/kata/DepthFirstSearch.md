@@ -3,7 +3,7 @@ title: "KataDepthFirstSearch"
 draft: false
 date: "2009-08-18T10:40:00"
 aliases:
-  - "/cgi-bin/index.pl?KataDepthFirstSearch"
+  - "/KataDepthFirstSearch"
 
 ---
     **About this Kata**

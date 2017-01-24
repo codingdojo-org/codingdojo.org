@@ -3,7 +3,7 @@ title: "MicroPairing"
 draft: false
 date: "2013-05-16T22:12:00"
 aliases:
-  - "/cgi-bin/index.pl?MicroPairing"
+  - "/MicroPairing"
 
 ---
     This is a variant of [PingPong](/PingPong) that works well with

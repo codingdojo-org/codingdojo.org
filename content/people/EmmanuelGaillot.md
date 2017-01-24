@@ -3,7 +3,7 @@ title: "EmmanuelGaillot"
 draft: false
 date: "2012-09-02T18:08:00"
 aliases:
-  - "/cgi-bin/index.pl?EmmanuelGaillot"
+  - "/EmmanuelGaillot"
 
 ---
     Emmanuel is one of the founders of the [ParisDojo](/dojo/ParisDojo) .

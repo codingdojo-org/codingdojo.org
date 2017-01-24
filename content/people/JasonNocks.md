@@ -3,7 +3,7 @@ title: "JasonNocks"
 draft: false
 date: "2007-05-23T16:46:00"
 aliases:
-  - "/cgi-bin/index.pl?JasonNocks"
+  - "/JasonNocks"
 
 ---
     A software consultant, coach, mentor, etc. in the United States.

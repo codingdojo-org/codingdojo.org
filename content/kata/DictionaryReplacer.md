@@ -3,7 +3,7 @@ title: "KataDictionaryReplacer"
 draft: false
 date: "2010-11-24T14:19:00"
 aliases:
-  - "/cgi-bin/index.pl?KataDictionaryReplacer"
+  - "/KataDictionaryReplacer"
 
 ---
     This kata is about making a simple string replacer. It is inspired by

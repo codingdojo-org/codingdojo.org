@@ -3,7 +3,7 @@ title: "PreparedKata"
 draft: false
 date: "2012-09-02T17:47:00"
 aliases:
-  - "/cgi-bin/index.pl?PreparedKata"
+  - "/PreparedKata"
 
 ---
     Someone has done some preparation before the meeting and comes ready to

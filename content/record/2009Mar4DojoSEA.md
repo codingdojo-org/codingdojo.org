@@ -3,7 +3,7 @@ title: "2009Mar4DojoSEA"
 draft: false
 date: "2009-03-11T20:20:00"
 aliases:
-  - "/cgi-bin/index.pl?2009Mar4DojoSEA"
+  - "/2009Mar4DojoSEA"
 
 ---
     Dojo-SEA - 04/03

@@ -3,7 +3,7 @@ title: "KataBowlingByAndreasLarsson"
 draft: false
 date: "2012-09-02T17:20:00"
 aliases:
-  - "/cgi-bin/index.pl?KataBowlingByAndreasLarsson"
+  - "/KataBowlingByAndreasLarsson"
 
 ---
     In [CodersDojoSweden](/dojo/CodersDojoSweden) we have done the

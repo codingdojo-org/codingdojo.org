@@ -3,7 +3,7 @@ title: "DojoSEA"
 draft: false
 date: "2009-07-27T21:47:00"
 aliases:
-  - "/cgi-bin/index.pl?DojoSEA"
+  - "/DojoSEA"
 
 ---
     Coding DOJO SEA

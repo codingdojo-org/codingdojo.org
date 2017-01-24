@@ -3,7 +3,7 @@ title: "CodingDojo"
 draft: false
 date: "2010-08-16T07:57:00"
 aliases:
-  - "/cgi-bin/index.pl?CodingDojo"
+  - "/CodingDojo"
 
 ---
     If I want to learn Judo, I will enroll at the nearest dojo, and show up

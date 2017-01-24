@@ -3,7 +3,7 @@ title: "KataBowling"
 draft: false
 date: "2014-11-02T12:51:00"
 aliases:
-  - "/cgi-bin/index.pl?KataBowling"
+  - "/KataBowling"
 
 ---
     This description is based on that at

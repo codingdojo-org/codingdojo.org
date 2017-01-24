@@ -3,7 +3,7 @@ title: "FernandoMeyer"
 draft: false
 date: "2007-11-17T20:49:00"
 aliases:
-  - "/cgi-bin/index.pl?FernandoMeyer"
+  - "/FernandoMeyer"
 
 ---
     Fernando Meyer is a Brazilian software engineer with more then 7 years

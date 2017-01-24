@@ -3,7 +3,7 @@ title: "DojoAttendee"
 draft: false
 date: "2010-06-30T20:58:00"
 aliases:
-  - "/cgi-bin/index.pl?DojoAttendee"
+  - "/DojoAttendee"
 
 ---
     A [DojoAttendee](/DojoAttendee) is someone who turns up to a dojo

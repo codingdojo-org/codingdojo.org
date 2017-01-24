@@ -3,7 +3,7 @@ title: "2008Abr23SPDojo"
 draft: false
 date: "2008-04-11T14:54:00"
 aliases:
-  - "/cgi-bin/index.pl?2008Abr23SPDojo"
+  - "/2008Abr23SPDojo"
 
 ---
     **Participants:** [HugoCorbucci](/people/HugoCorbucci) ,

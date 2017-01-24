@@ -3,7 +3,7 @@ title: "2007Sep19GRUG"
 draft: false
 date: "2009-10-03T15:31:00"
 aliases:
-  - "/cgi-bin/index.pl?2007Sep19GRUG"
+  - "/2007Sep19GRUG"
 
 ---
     **Participants:** Apologies, I forgot to make a list. It was about 10 -

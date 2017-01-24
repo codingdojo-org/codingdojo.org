@@ -3,7 +3,7 @@ title: "KataQotdCgi"
 draft: false
 date: "2010-07-31T21:05:00"
 aliases:
-  - "/cgi-bin/index.pl?KataQotdCgi"
+  - "/KataQotdCgi"
 
 ---
     **Quote of the day CGI**
