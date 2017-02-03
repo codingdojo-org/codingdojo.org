@@ -1,5 +1,5 @@
 ---
-title: "KataNimGame"
+title: "NimGame"
 draft: false
 date: "2017-02-03T12:46:00"
 
