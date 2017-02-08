@@ -7,7 +7,7 @@ aliases:
 
 ---
     This description is based on that at
-www.xprogramming.com/xpmag/acsBowling.htm
+[Adventures in C#: The Bowling Game](http://ronjeffries.com/xprog/articles/acsbowling/)
 
 Problem Description
 
@@ -46,7 +46,7 @@ We can briefly summarize the scoring for this form of bowling:
     only used to calculate the score of the final frame.
 -   The game score is the total of all frame scores.
 
-More info on the rules at: www.topendsports.com/sport/tenpin/scoring.htm
+More info on the rules at: [How to Score for Bowling](http://www.topendsports.com/sport/tenpin/scoring.htm)
 
 Clues
 
@@ -94,6 +94,3 @@ implemented in.
 ------------------------------------------------------------------------
 
 [KataBowlingByAndreasLarsson](/solution/KataBowlingByAndreasLarsson)
-
-Macluq has posted his solution on Github:
-<https://github.com/macluq/KataBowling>
