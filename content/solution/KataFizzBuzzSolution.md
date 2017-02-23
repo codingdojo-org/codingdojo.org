@@ -34,12 +34,12 @@ twist of supplying the filtering from the outside of the
         public void addFilters() {
             fizzBuzz.addFilter(new FizzBuzzFilter() {
                 public String filter(int integer) {
-                    return integer % 3 == 0? "Fizz" : null;
+                    return integer % 3 == 0? "Fizz" : "";
                 }
             });
             fizzBuzz.addFilter(new FizzBuzzFilter() {
                 public String filter(int integer) {
-                    return integer % 5 == 0? "Buzz" : null;
+                    return integer % 5 == 0? "Buzz" : "";
                 }
             });
         }
@@ -100,7 +100,7 @@ twist of supplying the filtering from the outside of the
 
         private Object convert(int integer) {
             String converted = applyFilters(integer);
-            return converted != null ? converted : integer;
+            return "".equals(converted) ? integer : converted;
         }
 
         private String applyFilters(int integer) {
