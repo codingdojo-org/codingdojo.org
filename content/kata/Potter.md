@@ -43,7 +43,7 @@ For example, how much does this basket of books cost?
       1 copy of the fourth book
       1 copy of the fifth book
 
-(answer: 51.60 EUR)
+(answer: 51.20 EUR)
 
 **Clues**
 
