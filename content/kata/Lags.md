@@ -30,7 +30,7 @@ BA01 6 9 8
 ```
 
 
-The best combination here is CO5 and AF515 with a gain of 10+8=18.
+The best combination here is AF514 and BA01 with a gain of 10+8=18.
 
 Depending on how you want to turn this Kata, the output could be `18`
 
