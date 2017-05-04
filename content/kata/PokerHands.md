@@ -76,8 +76,8 @@ the player named "White".
 Sample output:
 
     White wins. - with high card: Ace 
-    White wins. - with flash 
-    Black wins. - with high card: 9
+    Black wins. - with full house: 4 over 2 
+    Black wins. - with high card: King
     Tie.
 
 **Comments from those who are working on this Kata**
