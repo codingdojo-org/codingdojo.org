@@ -68,3 +68,6 @@ cases - where there are births and deaths at the edge of the grid.
 
 One possible solution in Java:
 <https://github.com/fabricejeannet/kataGameOfLife>
+
+Elegant comonadic solution in Haskell:
+<http://blog.emillon.org/posts/2012-10-18-comonadic-life.html>
