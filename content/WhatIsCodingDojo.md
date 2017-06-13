@@ -52,7 +52,7 @@ Process
     -   25-30 minutes: quick retrospective of the previous session; what
         went well, what was interesting, what was frustrating
     -   10 minutes: decide on a topic for this session
-    -   (we call these first three items the "next, prev,
+        (we call these first three items the "next, prev,
         this" protocol)
     -   40 minutes or so: code! [PreparedKata](/PreparedKata) or
         [RandoriKata](/RandoriKata) , see below
