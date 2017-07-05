@@ -22,15 +22,15 @@ code Kata, and it can be difficult to get good quality feedback without
 someone else present or at least available to review your code
 afterwards.
 
-Practice we must! As Ron Jeffries points out in his artice titled
+Practice we must! As Ron Jeffries points out in his article titled
 "Practice: That's What We Do" ( xprogramming.com/xpmag/jatPractice.htm
 ), "But what changes people is what they do, not what they read. How
 many diet books have I read? Am I thinner?..."
 
-Going to a [CodingDojo](/CodingDojo) helps enormously because its is fun
+Going to a [CodingDojo](/CodingDojo) helps enormously because it's fun
 to go and socialise and meet other geeks, which means you actually do
-it, rather than always just intending to sit down of an evening and do a
-kata instead of watch TV. At the meeting, when you're doing a kata
+it, rather than just intending to sit down an evening and do a
+kata instead of watching TV. At the meeting, when you're doing a kata
 together you challenge one another and you have to learn to accept
 criticism and defend your ideas. [\[high
 availability\]](http://www.neverfailgroup.com) You get feedback on not
@@ -39,6 +39,6 @@ other people's neat tricks with the language and editor and see other
 ways to code. If you already work in a team in your job then that may
 not be so new to you, but here it is with a different bunch of people,
 in a very safe environment. The code produced at the end may be
-preserved on a wiki somewhere but you're not still going to be
+preserved on a wiki somewhere but you're still not going to be
 maintaining it in 5 years time. You get to try the same Kata again the
 next time if you think you can do better.
