@@ -6,10 +6,10 @@ aliases:
   - "/RhythmOfTestFirst"
 
 ---
-    -   Write UT for Particular [BabyStep](/BabyStep)
+    -   Write UT for Particular [BabyStep](/BabySteps)
 -   Run it, it should fail
 -   If it is not failing - review the test it might be wrong
 -   Written test should generate an interfaces
 -   write an implementation until the test is green
--   goto the next [BabyStep](/BabyStep)
+-   goto the next [BabyStep](/BabySteps)
 
