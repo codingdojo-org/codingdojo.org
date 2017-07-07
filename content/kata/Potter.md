@@ -6,12 +6,12 @@ aliases:
   - "/KataPotter"
 
 ---
-    If you want to try this Kata for yourself or at your dojo meeting, read
+If you want to try this Kata for yourself or at your dojo meeting, read
 the problem description and see if the Kata appeals to you. The rest is
 commentary and helpful clues for if you get stuck solving it. I would
 recommend trying the Kata for yourself before reading too much of it.
 
-**Problem Description**
+## Problem Description
 
 Once upon a time there was a series of 5 books about a very English hero
 called Harry. (At least when this Kata was invented, there were only 5.
@@ -37,20 +37,20 @@ conceivable shopping basket, giving as big a discount as possible.
 
 For example, how much does this basket of books cost?
 
-      2 copies of the first book
-      2 copies of the second book
-      2 copies of the third book
-      1 copy of the fourth book
-      1 copy of the fifth book
+* 2 copies of the first book
+* 2 copies of the second book
+* 2 copies of the third book
+* 1 copy of the fourth book
+* 1 copy of the fifth book
 
-answer: 51.20 EUR
+answer : 
     
       (4 * 8) - 20% [first book, seconde book, third book, fourth book]
     + (4 * 8) - 20% [first book, seconde book, third book, fifth book]
     = 25.6 * 2
     = 51.20
     
-**Clues**
+## Clues
 
 You’ll find that this Kata is easy at the start. You can get going with
 tests for baskets of 0 books, 1 book, 2 identical books, 2 different
@@ -59,7 +59,7 @@ introduce complexity.
 
 However, the twist becomes apparent when you sit down and work out how
 much you think the sample basket above should cost. It isn’t
-5\*8\*0.75+3\*8\*0.90. It is in fact 4\*8\*0.8+4\*8\*0.8. So the trick
+`5 * 8 * 0.75 + 3 *8 * 0.90`. It is in fact `4 * 8 * 0.8 + 4 * 8 * 0.8`. So the trick
 with this Kata is not that the acceptance test you’ve been given is
 wrong. The trick is that you have to write some code that is intelligent
 enough to notice that two sets of four books is cheaper than a set of
@@ -72,12 +72,11 @@ in order to share it for everyone or even in the ??? . Trust that you
 can generalize and improve your solution if and when new requirements
 come along.
 
--   This application has nice application for
+- This application has nice application for
 
 **Suggested Test Cases**
 
-(Originally posted at xp-france.net/cgi-bin/wiki.pl?
-[KataPotter](/kata/Potter) )
+(Originally posted at xp-france)
 
     def testBasics
       assert_equal(0, price([]))
