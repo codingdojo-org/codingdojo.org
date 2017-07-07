@@ -49,8 +49,8 @@ answer :
     + (4 * 8) - 20% [first book, seconde book, third book, fifth book]
     = 25.6 * 2
     = 51.20
-        
-## Clues
+       
+## Clues
 
 You’ll find that this Kata is easy at the start. You can get going with
 tests for baskets of 0 books, 1 book, 2 identical books, 2 different
@@ -74,7 +74,7 @@ come along.
 
 - This application has nice application for
 
-**Suggested Test Cases**
+## Suggested Test Cases
 
 (Originally posted at xp-france)
 
