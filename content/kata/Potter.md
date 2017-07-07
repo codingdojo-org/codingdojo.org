@@ -49,7 +49,7 @@ answer :
     + (4 * 8) - 20% [first book, seconde book, third book, fifth book]
     = 25.6 * 2
     = 51.20
-    
+        
 ## Clues
 
 You’ll find that this Kata is easy at the start. You can get going with
