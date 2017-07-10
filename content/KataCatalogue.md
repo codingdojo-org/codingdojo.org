@@ -50,7 +50,11 @@ each Kata.
 -   [KataQotdCgi](/kata/QotdCgi)
 -   [KataJEEWebAuthentication](/kata/JEEWebAuthentication)
 
-*Refactoring legacy code*
+*Refactoring legacy code & Design Principles*
 
--   <https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises#readme>
+-   [TDDMicroExercises](https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises#readme)
+
+*Design Principles*
+-   [TensionsAndSynergiesBetweenDesignPrinciples](https://github.com/lucaminudel/tensions_and_synergies_between_design_principles/blob/master/README.md)
+-   [ObjectsRelationshipsCodingDojo](https://github.com/lucaminudel/Objects-relationships-Coding-Dojo/blob/master/README.md)
 
