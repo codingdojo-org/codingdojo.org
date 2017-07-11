@@ -55,6 +55,7 @@ each Kata.
 -   [TDDMicroExercises](https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises#readme)
 
 *Design Principles*
+
 -   [TensionsAndSynergiesBetweenDesignPrinciples](https://github.com/lucaminudel/tensions_and_synergies_between_design_principles/blob/master/README.md)
 -   [ObjectsRelationshipsCodingDojo](https://github.com/lucaminudel/Objects-relationships-Coding-Dojo/blob/master/README.md)
 
