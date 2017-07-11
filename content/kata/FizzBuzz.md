@@ -1,12 +1,13 @@
 ---
-title: "KataFizzBuzz"
+title: "FizzBuzz"
 draft: false
 date: "2012-09-02T17:23:00"
 aliases:
   - "/KataFizzBuzz"
+  - "/kata/FizzBuzz"
 
 ---
-    **About this Kata**
+## About this Kata
 
 This Kata was posted here by someone anonymously. Michael Feathers and
 [EmilyBache](/people/EmilyBache) performed it at agile2008 when
@@ -15,7 +16,7 @@ competing in "Programming with the stars" in python, in 4 minutes.
 Difficulty: Easy Good for teaching: [TDD](/TestDrivenDevelopment) ,
 [BabySteps](/BabySteps)
 
-**Problem Description**
+## Problem Description
 
 Imagine the scene. You are eleven years old, and in the five minutes
 before the end of the lesson, your Maths teacher decides he should make
@@ -64,12 +65,12 @@ Sample output:
     Buzz
     ... etc up to 100
 
-**Stage 2 - new requirements**
+## Stage 2 - new requirements
 
      * A number is fizz if it is divisible by 3 or if it has a 3 in it
      * A number is buzz if it is divisible by 5 or if it has a 5 in it
 
-**Comments from those who are working on this Kata**
+## Comments from those who are working on this Kata
 
 (Comment from [MikeMinutillo](/people/MikeMinutillo) ) The best use of
 the [KataFizzBuzz](/kata/FizzBuzz) is to introduce the concepts of TDD
@@ -137,9 +138,5 @@ in learning the Android. I wrote it up at
 coding-dojo with Pharo. Easy, great for teaching TDD. A
 [KataFizzBuzzSmalltalkSolution](/solution/KataFizzBuzzSmalltalkSolution)
 .
-
-------------------------------------------------------------------------
-
-(Comment from Jack) Nicely Solved. I wrote it up.
 
 
