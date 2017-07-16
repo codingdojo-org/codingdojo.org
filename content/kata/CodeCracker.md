@@ -2,8 +2,6 @@
 title: "CodeCracker"
 draft: false
 date: "2017-07-12T12:51:00"
-aliases:
-  - "/CodeCracker"
 
 ---
 
