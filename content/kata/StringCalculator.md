@@ -14,14 +14,20 @@ Create a function `add` they take a string and return a float like :
 * an empty string will return 0
 * Example of inputs : "", "1", "1.1,2.2"
 
-## Allow the add method to handle an unknow number of arguments
+## Many numbers
 
-## Allow the add method to handle new lines as separator
+Allow the add method to handle an unknow number of arguments
+
+## New separator
+
+Allow the add method to handle new lines as separator
 
 * "1\n2,3" should return 6.
 * "1,\n" is invalid and throw an exception
 
-## Allow the add method to handle a different delimiter
+## Many separator
+
+Allow the add method to handle a different delimiter
 
 To change the delimiter, the beginning of the string will contain a separate line that looks like this : 
 
