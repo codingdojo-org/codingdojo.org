@@ -4,4 +4,4 @@ title = "Coding Dojo"
 theme = "template-hugo-codingdojo"
 metadataformat = "yaml"
 canonifyurls = true
-
+disablePathToLower = true
