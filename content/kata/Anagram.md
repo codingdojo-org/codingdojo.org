@@ -6,11 +6,10 @@ aliases:
   - "/KataAnagram"
 
 ---
-    **About this Kata**
+# About this Kata
 
-This Kata was posted as the problem to be solved in a "self-documenting
-code contest":
-selfexplanatorycode.blogspot.com/2008/08/announcing-self-documenting-code.html
+This Kata was posted as the problem to be solved in a "self-documenting code contest":
+http://selfexplanatorycode.blogspot.com/2008/08/announcing-self-documenting-code.html
 
 ## Problem Description
 
@@ -29,5 +28,4 @@ none as yet.
 
 ## Comments from those who are working on this Kata
 
-The results of the "self documenting code contest" are at
-selfexplanatorycode.blogspot.com/2008/09/results.html
+The results of the "self documenting code contest" are at http://selfexplanatorycode.blogspot.com/2008/09/results.html
