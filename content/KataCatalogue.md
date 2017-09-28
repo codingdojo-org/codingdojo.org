@@ -27,6 +27,7 @@ each Kata.
 
 -   [KataBowling](/kata/Bowling)
 -   [KataGameOfLife](/kata/GameOfLife)
+-   [KataMastermid](/kata/Mastermind)
 -   [KataMinesweeper](/kata/Minesweeper)
 -   [KataPacMan](/kata/PacMan)
 -   [KataPokerHands](/kata/PokerHands)
