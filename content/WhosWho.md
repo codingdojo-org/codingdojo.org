@@ -14,6 +14,7 @@ yourself.
 -   [EmilyBache](/people/EmilyBache)
 -   [PhilippeBlayo](/people/PhilippeBlayo)
 -   [LaurentBossavit](/people/LaurentBossavit)
+-   [ÉtienneCharignon](/people/EtienneCharignon)
 -   [SusanDavis](/people/SusanDavis)
 -   [PekkaEnberg](/people/PekkaEnberg)
 -   [EmmanuelGaillot](/people/EmmanuelGaillot)
