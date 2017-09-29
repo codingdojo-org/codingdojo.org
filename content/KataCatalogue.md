@@ -14,6 +14,7 @@ each Kata.
 
 -   [KataBankOCR](/kata/BankOCR)
 -   [KataFizzBuzz](/kata/FizzBuzz)
+-   [FooBarQix](/kata/FooBarQix)
 -   [KataPotter](/kata/Potter)
 -   [KataRomanNumerals](/kata/RomanNumerals)
 -   [KataRomanCalculator](/kata/RomanCalculator)
