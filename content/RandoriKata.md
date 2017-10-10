@@ -1,7 +1,7 @@
 ---
 title: "RandoriKata"
 draft: false
-date: "2012-07-07T15:03:00"
+date: "2017-10-10T10:02:00"
 aliases:
   - "/RandoriKata"
 
@@ -28,3 +28,4 @@ anything much before the meeting.
     [\[GreenBar (@c2)\]](http://c2.com/cgi/wiki?GreenBar) . At other
     times the pair at the keyboard may ask not to be interrupted.
 
+To work on prepared Kata online, you can use the [cyber-dojo platform](http://cyber-dojo.org/).
