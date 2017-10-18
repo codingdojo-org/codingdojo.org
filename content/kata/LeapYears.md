@@ -1,12 +1,26 @@
 ---
 title: "Leap Years"
 draft: false
-date: "2017-05-24T17:23:00"
+date: "2017-10-184T19:07:00"
 
 ---
 
-Write a function that returns true or false depending on whether its input integer is a leap year or not.
-A leap year is defined as one that is divisible by 4, but is not otherwise divisible by 100 unless it is also divisible by 400.
-For example, 2001 is a typical common year and 1996 is a typical leap year, whereas 1900 is an atypical common year and 2000 is an atypical leap year.
+This short and simple Kata should be performed in pairs using Test Driven Development (TDD).
 
-The Gregorian calendar was a reform of the Julian calendar. It was instituted in 1582 by Pope Gregory XIII, before 1582 a leap year is only divisible by 4. 
+Prior to 1582, the Julian Calendar was in wide use and defined leap years as every year divisible by 4. However, it was found in the late 16th century that the calendar year had drifted from the solar year by approximately 10 days. The Gregorian Calendar was defined in order to thin out the number of leap years and to more closely align the calendar year with the solar year. It was adopted in Papal countries on October 15, 1582, skipping 10 days from the Julian Calendar date. Protestant countries adopted the Gregorian Calendar after some time.
+
+The Gregorian Calendar is quite accurate, but could be made more accurate by adding an additional rule that eliminates years divisible by 4000 as leap years. But I guess we’ll cross that bridge when we come to it. Consider adding this rule as a second story as an extension to the exercise.
+
+User Story:
+
+As a user, 
+I want to know if a year is a leap year, 
+So that I can plan for an extra day on February 29th during those years.
+
+Acceptance Criteria:
+
+1.	All years divisible by 400 ARE leap years (so, for example, 2000 was indeed a leap year),
+2.	All years divisible by 100 but not by 400 are NOT leap years (so, for example, 1700, 1800, and 1900 were NOT leap years, NOR will 2100 be a leap year),
+3.	All years divisible by 4 but not by 100 ARE leap years (e.g., 2008, 2012, 2016),
+4.	All years not divisible by 4 are NOT leap years (e.g. 2017, 2018, 2019).
+
