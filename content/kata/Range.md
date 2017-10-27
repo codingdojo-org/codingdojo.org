@@ -32,13 +32,13 @@ aliases:
 
 -   endPoints
 
-\[2,6) allPoints = {2,3,4,5}
+\[2,6) endPoints = {2,5}
 
-\[2,6\] allPoints = {2,3,4,5,6}
+\[2,6\] endPoints = {2,6}
 
-(2,6) allPoints = {3,4,5}
+(2,6) endPoints = {3,5}
 
-(2,6\] allPoints = {3,4,5,6}
+(2,6\] endPoints = {3,6}
 
 -   overlapsRange
 
