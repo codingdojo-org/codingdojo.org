@@ -22,7 +22,7 @@ https://gist.githubusercontent.com/calvinmetcalf/084ab003b295ee70c8fc/raw/314abf
 You should think about the performance of your solution and whether
 making it faster affects readability.
 
-## Suggested Test Cases
+## Suggested Test Cases
 
 none as yet.
 
