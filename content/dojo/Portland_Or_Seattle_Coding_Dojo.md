@@ -10,4 +10,5 @@ aliases:
 intrigued, and want to join if one exists, and or set up if not.
 
 See
+<https://www.meetup.com/Mentorship-Saturdays/> in downtown Portland, OR
 <http://wiki.andy.glew.ca/wiki/Hacker_Social_Events_-_Code_Sprints_or_Dojos>
