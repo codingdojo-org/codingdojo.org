@@ -7,7 +7,7 @@ date: "2017-09-27T13:23:00"
 You should implements a function String compute(String) which implements the following rules.
 
 ## Step 1
-### Rules
+### Rules
 
 * If the number is divisible by 3, write "Foo" instead of the number
 * If the number is divisible by 5, add "Bar"
@@ -33,7 +33,7 @@ You should implements a function String compute(String) which implements the fol
     51 => FooBar
     53 => BarFoo
 
-## Step 2
+## Step 2
 
 We have a new business request : we must keep a trace of 0 in numbers, each 0 must be replace par char "*".
 
