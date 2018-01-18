@@ -6,7 +6,8 @@ aliases:
   - "/KataTradingCardGame"
 
 ---
-    About this Kata
+
+## About this Kata
 
 ------------------------------------------------------------------------
 
@@ -16,15 +17,12 @@ card game. The rules are loosely based on Blizzard Hearthstone (
 simpler and straight-forward game compared to other TCGs like *Magic:
 The Gathering* ( <http://www.wizards.com/magic/> ).
 
-Difficulty: Medium/Hard
+* **Difficulty:** Medium/Hard
+* **Good for teaching:** Test Doubles, Mocking, TDD, Refactoring, Clean Code
 
-Good for teaching: Test Doubles, Mocking, TDD, Refactoring, Clean Code
+## Problem Description
 
-Problem Description
-
-------------------------------------------------------------------------
-
-1\. Preparation
+### Preparation
 
 -   Each player starts the game with 30 Health and 0 Mana slots
 -   Each player starts with a deck of 20 Damage cards with the following
@@ -32,7 +30,7 @@ Problem Description
 -   From the deck each player receives 3 random cards has his initial
     hand
 
-2\. Gameplay
+### Gameplay
 
 -   The active player receives 1 Mana slot up to a maximum of 10 total
     slots
@@ -48,7 +46,7 @@ Problem Description
     doesn't want to play another card, the opponent player becomes
     active
 
-3\. Special Rules
+### Special Rules
 
 -   Bleeding Out: If a player's card deck is empty before the game is
     over he receives 1 damage instead of drawing a card when it's
@@ -60,9 +58,7 @@ Problem Description
     damage either. They are just annoyingly taking up space in
     your hand.
 
-Clues
-
-------------------------------------------------------------------------
+## Clues
 
 When approached iteratively with TDD you can take different starting
 points, like the player state or the game loop. It is your own choice
@@ -75,10 +71,8 @@ Kata's author at <https://github.com/bkimminich/kata-tcg> . Even without
 extra rules the toughest part of this Kata might be coming up with
 actually smart CPU player decision-making algorithms.
 
-Example Solution
+## Example Solution
 
-------------------------------------------------------------------------
-
--   <https://github.com/bkimminich/kata-tcg> - Example solution in Java
-    8 from the Kata's author [BjoernKimminich](/people/BjoernKimminich)
+-   [Example solution in Java 8](https://github.com/bkimminich/kata-tcg/tree/master/tcg-java)
+    from the Kata's author [BjoernKimminich](/people/BjoernKimminich)
 
