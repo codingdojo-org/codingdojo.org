@@ -6,8 +6,9 @@ aliases:
   - "/BjoernKimminich"
 
 ---
-    I am from Hamburg, Germany and my primary work is being a Software
-Architect/Engineer for Java Web Applications. I regularly give in-house
+
+I am from Hamburg, Germany and my primary work is being an IT
+Architect/Application Security Officer. I regularly give in-house
 corporate trainings as well as regular university lectures regarding
 topics such as Clean Code, Agile Software Development and Web
 Application Security.
