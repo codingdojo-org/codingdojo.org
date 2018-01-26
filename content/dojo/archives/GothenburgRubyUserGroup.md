@@ -5,6 +5,7 @@ date: "2007-09-28T12:07:00"
 archived: true
 aliases:
   - "/GothenburgRubyUserGroup"
+  - "/dojo/GothenburgRubyUserGroup"
 
 ---
     Gothenburg Ruby User Group

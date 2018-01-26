@@ -5,6 +5,7 @@ date: "2009-07-27T21:47:00"
 archived: true
 aliases:
   - "/DojoSEA"
+  - "/dojo/DojoSEA"
 
 ---
     Coding DOJO SEA

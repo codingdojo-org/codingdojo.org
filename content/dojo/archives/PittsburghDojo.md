@@ -5,6 +5,7 @@ date: "2009-02-28T19:10:00"
 archived: true
 aliases:
   - "/PittsburghDojo"
+  - "/dojo/PittsburghDojo"
 
 ---
     The Pittsburgh Coding Dojo has been meeting since April 2006.

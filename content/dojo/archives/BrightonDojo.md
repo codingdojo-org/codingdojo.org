@@ -5,6 +5,7 @@ date: "2007-08-20T15:39:00"
 archived: true
 aliases:
   - "/BrightonDojo"
+  - "/dojo/BrightonDojo"
 
 ---
     The Brighton Coding Dojo group meets fortnightly in Brighton, UK. We

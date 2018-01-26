@@ -5,6 +5,7 @@ date: "2010-05-15T17:40:00"
 archived: true
 aliases:
   - "/Portland_Or_Seattle_Coding_Dojo"
+  - "/dojo/Portland_Or_Seattle_Coding_Dojo"
 
 ---
     I am not aware of any Portland or Seattle area coding dojos, but I am

@@ -5,6 +5,7 @@ date: "2009-02-25T16:24:00"
 archived: true
 aliases:
   - "/AllDayCodingDojo"
+  - "/dojo/AllDayCodingDojo"
 
 ---
     "All Day Coding Dojo" is a tem coined by

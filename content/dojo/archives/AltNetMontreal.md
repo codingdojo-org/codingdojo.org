@@ -5,6 +5,7 @@ date: "2010-09-08T14:15:00"
 archived: true
 aliases:
   - "/AltNetMontreal"
+  - "/dojo/AltNetMontreal"
 
 ---
     Alt.NET Montréal

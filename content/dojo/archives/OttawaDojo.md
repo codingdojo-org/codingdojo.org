@@ -5,6 +5,7 @@ date: "2007-11-01T16:22:00"
 archived: true
 aliases:
   - "/OttawaDojo"
+  - "/dojo/OttawaDojo"
 
 ---
     This [CodingDojo](/CodingDojo) in Ottawa convenes twice a week in the
