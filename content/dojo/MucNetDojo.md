@@ -11,4 +11,4 @@ aliases:
 Germany's first Coding Dojo based on .NET Framework & related
 technologies.
 
-Website: dotnetdojo.ning.com
+Website: http://www.ilker.de/mucnetdojo-net-coding-dojo-in-munchen.html

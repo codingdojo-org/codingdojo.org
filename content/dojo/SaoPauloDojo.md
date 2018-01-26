@@ -15,6 +15,12 @@ University Of São Paulo (IME-USP). Join us at dojo\_sp@groups.google.com
 
 <!--more-->
 
+Information
+===========
+ * [Google group](https://groups.google.com/forum/#!forum/dojo_sp)
+ * [Meetup page](https://www.meetup.com/Dojo-SP/)
+ * [GitHUb repo](https://github.com/Dojo-SP)
+
 Session Reports
 ===============
 
