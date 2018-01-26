@@ -2,6 +2,7 @@
 title: "AllDayCodingDojo"
 draft: false
 date: "2009-02-25T16:24:00"
+archived: true
 aliases:
   - "/AllDayCodingDojo"
 

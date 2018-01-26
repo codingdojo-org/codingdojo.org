@@ -2,6 +2,7 @@
 title: "GothPy"
 draft: false
 date: "2008-10-07T19:41:00"
+archived: true
 aliases:
   - "/GothPy"
 

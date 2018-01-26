@@ -2,6 +2,7 @@
 title: "AarhusDojo"
 draft: false
 date: "2012-09-02T17:01:00"
+archived: true
 aliases:
   - "/AarhusDojo"
 
