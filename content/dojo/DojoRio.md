@@ -6,6 +6,9 @@ aliases:
   - "/DojoRio"
 
 ---
-    Coding Dojo at Rio de Janeiro, Brazil.
+Coding Dojo at Rio de Janeiro, Brazil.
 
-groups.google.com/group/dojo-rio
+[Website](https://dojorio.org/), [GitHub](https://github.com/dojorio) and
+[Google Group](https://groups.google.com/group/dojo-rio).
+
+<!--more-->

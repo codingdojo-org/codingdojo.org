@@ -2,6 +2,7 @@
 title: "BrightonDojo"
 draft: false
 date: "2007-08-20T15:39:00"
+archived: true
 aliases:
   - "/BrightonDojo"
 

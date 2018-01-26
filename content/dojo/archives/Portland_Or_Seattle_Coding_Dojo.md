@@ -2,6 +2,7 @@
 title: "Portland_Or_Seattle_Coding_Dojo"
 draft: false
 date: "2010-05-15T17:40:00"
+archived: true
 aliases:
   - "/Portland_Or_Seattle_Coding_Dojo"
 

@@ -2,6 +2,7 @@
 title: "OttawaDojo"
 draft: false
 date: "2007-11-01T16:22:00"
+archived: true
 aliases:
   - "/OttawaDojo"
 

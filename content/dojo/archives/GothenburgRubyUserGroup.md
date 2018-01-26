@@ -2,6 +2,7 @@
 title: "GothenburgRubyUserGroup"
 draft: false
 date: "2007-09-28T12:07:00"
+archived: true
 aliases:
   - "/GothenburgRubyUserGroup"
 
