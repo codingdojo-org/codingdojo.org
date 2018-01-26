@@ -5,3 +5,11 @@ theme = "template-hugo-codingdojo"
 metadataformat = "yaml"
 canonifyurls = true
 disablePathToLower = true
+defaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+
+[languages.fr]
+
+[languages.pt]
