@@ -64,3 +64,5 @@ Found a [\[F\# solution\]](http://github.com/hibri/f_sharp_roman_numeral_convert
 ruby, java and clojure along with acceptance tests written in ruby and
 interacting with the command line. Would be nice with some additional
 languages. - [FredrikRubensson](/people/FredrikRubensson)
+
+[\[Here's a JavaScript solution\]](https://github.com/machi1990/num_to_rom) at Github

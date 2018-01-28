@@ -22,7 +22,7 @@ To start off, a directory of who we are and what exactly are we doing:
 
 -   [What Is Coding Dojo](/WhatIsCodingDojo)
 -   [Coding Dojos](/CodingDojos)
--   [Who's Who](/WhosWho)
+-   [Who's Who](/people/)
 -   [Kata Catalogue](/KataCatalogue)
 -   [My First Dojo](/MyFirstDojo) (some pragmatic suggestions for how a
     Dojo might work)
