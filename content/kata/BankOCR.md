@@ -18,9 +18,9 @@ to assist in reading letters and faxes sent in by branch offices. The
 machine scans the paper documents, and produces a file with a number of
 entries which each look like this:
 
-        _  _     _  _  _  _  _
+        _  _     _  _  _  _  _ 
       | _| _||_||_ |_   ||_||_|
-      ||_  _|  | _||_|  ||_| _| 
+      ||_  _|  | _||_|  ||_| _|
                                
 
 Each entry is 4 lines long, and each line has 27 characters. The first 3
@@ -44,7 +44,7 @@ can be calculated as follows:
     position names:  d9 d8 d7 d6 d5 d4 d3 d2 d1
 
     checksum calculation:
-    (d1+2*d2+3*d3 +..+9*d9) mod 11 = 0
+    (d1+2*d2+3*d3+...+9*d9) mod 11 = 0
 
 So now you should also write some code that calculates the checksum for
 a given number, and identifies if it is a valid account number.
@@ -70,7 +70,7 @@ one of the figures. For example
 
         _  _  _  _  _  _     _ 
     |_||_|| || ||_   |  |  ||_ 
-      | _||_||_||_|  |  |  | _| 
+      | _||_||_||_|  |  |  | _|
 
 The 9 could be an 8 if the scanner had missed one |. Or the 0 could be
 an 8. Or the 1 could be a 7. The 5 could be a 9 or 6. So your next task
@@ -166,9 +166,9 @@ save any changes by mistake.
      _| _| _| _| _| _| _| _| _|
                                
     => 999999999
-        _  _     _  _  _  _  _
+        _  _     _  _  _  _  _ 
       | _| _||_||_ |_   ||_||_|
-      ||_  _|  | _||_|  ||_| _| 
+      ||_  _|  | _||_|  ||_| _|
                                
     => 123456789
 
@@ -186,7 +186,7 @@ save any changes by mistake.
         _  _     _  _  _  _  _ 
       | _| _||_| _ |_   ||_||_|
       ||_  _|  | _||_|  ||_| _ 
-                                
+                               
     => 1234?678? ILL
 
     use case 4
@@ -237,7 +237,7 @@ save any changes by mistake.
     => 490067715 AMB ['490067115', '490067719', '490867715']
         _  _     _  _  _  _  _ 
      _| _| _||_||_ |_   ||_||_|
-      ||_  _|  | _||_|  ||_| _| 
+      ||_  _|  | _||_|  ||_| _|
                                
     => 123456789
      _     _  _  _  _  _  _    
