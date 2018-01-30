@@ -12,6 +12,7 @@ aliases:
 Contents:
 
 * [Problem Description](#problem-description)
+* [Clues](#clues)
 * [Suggested Test Cases](#suggested-test-cases)
 * [Resources](#resources)
 * [Comments from those who are working on this Kata](#comments-from-those-who-are-working-on-this-kata)
