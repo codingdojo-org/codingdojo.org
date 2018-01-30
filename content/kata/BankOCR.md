@@ -9,6 +9,12 @@ aliases:
     This Kata was presented at XP2006 by
 [EmmanuelGaillot](/people/EmmanuelGaillot) and ChristopheThibaut .
 
+Contents:
+
+* [Problem Description](#problem-description)
+* [Suggested Test Cases](#suggested-test-cases)
+* [Resources](#resources)
+* [Comments from those who are working on this Kata](#comments-from-those-who-are-working-on-this-kata)
 
 ## Problem Description
 
