@@ -1,3 +1,4 @@
 *~
 *.swp
 themes/template-hugo-codingdojo/
+/.docker-hugo-iid
