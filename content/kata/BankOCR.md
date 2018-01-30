@@ -252,6 +252,16 @@ save any changes by mistake.
                                
     => 490867715 
 
+## Resources
+
+One of the challenges that this kata poses is to convert the suggested test cases above
+into code. If you are short on time and are using Ruby, you might want to use these prepared
+fixtures:
+
+* For Ruby: [fixtures and minitest+rspec boilerplate](https://github.com/dvrensk/bank_ocr_kata)
+    from the [Barcelona on Rails](https://www.meetup.com/Barcelona-on-Rails/events/gppkmnyxcbxb/)
+    group.
+
 ## Comments from those who are working on this Kata
 
 Here you could write some thoughts about what you have learnt from this
