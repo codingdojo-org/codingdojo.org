@@ -33,7 +33,8 @@ Open your browser on `http://localhost:1313` and start your favorite editor!
 Assuming you have [Docker](https://www.docker.com/community-edition) installed, you build an image and run it:
 
 	docker build --iidfile .docker-hugo-iid .
-	docker run -p 1313:1313 --rm -w /site $(cat .docker-hugo-iid) hugo server -w --bind 0.0.0.0
+	# Assuming that your path begins with `/Users` which is available to Docker -- tested on Mac only
+	docker run -p 1313:1313 --rm -it -v /Users:/Users -w $(pwd -L) $(cat .docker-hugo-iid) hugo server -w --bind 0.0.0.0
 
 You only need to build the image once.
 
