@@ -28,13 +28,12 @@ the content is laid out in this repo.  Older versions (like 0.26 in the Docker i
 
 Open your browser on `http://localhost:1313` and start your favorite editor!
 
-### Using Hugo 0.26 from the `Dockerfile`
+### Using Hugo from the `Dockerfile`
 
 Assuming you have [Docker](https://www.docker.com/community-edition) installed, you build an image and run it:
 
-	docker build --iidfile .docker-hugo-iid .
-	# Assuming that your path begins with `/Users` which is available to Docker -- tested on Mac only
-	docker run -p 1313:1313 --rm -it -v /Users:/Users -w $(pwd -L) $(cat .docker-hugo-iid) hugo server -w --bind 0.0.0.0
+	docker build -t codingdojo .
+	docker run -p 1313:1313 --rm -it -v $(pwd):/site codingdojo hugo server -w --bind 0.0.0.0
 
 You only need to build the image once.
 
