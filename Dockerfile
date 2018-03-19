@@ -17,6 +17,6 @@ RUN wget https://github.com/spf13/hugo/releases/download/v0.26/hugo_0.26_Linux-6
 COPY . /site
 RUN git clone https://github.com/codingdojo-org/template-hugo-codingdojo /site/themes/template-hugo-codingdojo
 WORKDIR /site
-#RUN /usr/bin/hugo --destination=/var/www
-#RUN linkchecker --ignore-url="https://github.*" --no-warnings /var/www/
-#COPY nginx_vhost.conf /etc/nginx/conf.d/codingdojo.conf
+RUN hugo --destination=/var/www
+RUN linkchecker --ignore-url="https://github.*" --no-warnings /var/www/
+COPY nginx_vhost.conf /etc/nginx/conf.d/codingdojo.conf
