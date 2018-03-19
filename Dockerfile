@@ -1,14 +1,22 @@
-from tclavier/nginx
-run apt-get update \
+FROM tclavier/nginx
+
+RUN apt-get update \
     && apt-get install -y \
       git \
-      hugo \
+      git \
+      imagemagick \
       linkchecker \
+      make \
+      wget \
     && apt-get clean
-add . /site
-run git clone https://github.com/codingdojo-org/template-hugo-codingdojo /site/themes/template-hugo-codingdojo
-workdir /site
-run /usr/bin/hugo --destination=/var/www
-run linkchecker --ignore-url="https://github.*" --no-warnings /var/www/
-add nginx_vhost.conf /etc/nginx/conf.d/codingdojo.conf
 
+RUN wget https://github.com/spf13/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.deb -O /tmp/hugo.deb \
+ && dpkg -i /tmp/hugo.deb \
+ && rm -f /tmp/hugo.deb
+
+COPY . /site
+RUN git clone https://github.com/codingdojo-org/template-hugo-codingdojo /site/themes/template-hugo-codingdojo
+WORKDIR /site
+#RUN /usr/bin/hugo --destination=/var/www
+#RUN linkchecker --ignore-url="https://github.*" --no-warnings /var/www/
+#COPY nginx_vhost.conf /etc/nginx/conf.d/codingdojo.conf
