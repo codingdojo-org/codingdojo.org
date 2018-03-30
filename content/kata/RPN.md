@@ -1,14 +1,14 @@
 ---
 title: "RPN Calculator"
-draft: false
 date: 2018-03-19
 ---
 
 An RPN calculator computes expressions written in Reverse Polish Notation.
 
 An RPN expression or postfix expression is one of the following :
-* a number X, in wich case the value of the expression is that of X,
-* a sequence of form E1 E2 O where E1 and E2 are RPN expressions and O is an arithmetic operation.
+
+* a number `X`, in wich case the value of the expression is that of X,
+* a sequence of form `E1 E2 OP` where `E1` and `E2` are RPN expressions and `OP` is an arithmetic operation.
 
 Samples :
 
@@ -24,5 +24,3 @@ Add the MAX operation :
 
     5 3 4 2 9 1 MAX   => MAX(5, 3, 4, 2, 9, 1) = 9
     4 5 MAX 1 2 MAX * => MAX(4,5) * MAX(1,2) = 10
-
-
