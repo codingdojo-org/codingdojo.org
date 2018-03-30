@@ -5,11 +5,8 @@ date: "2017-01-22T18:20:00"
 aliases: [/home,/greetings]
 type: index
 ---
-Welcome to the Coding Dojo website
+# Welcome to the Coding Dojo website
 
-------------------------------------------------------------------------
-
-# Welcome
 The purpose of this website is to gather resources, sessions and stories from
 users around the world that the Coding Dojo website should provide to its user
 community.
@@ -23,7 +20,7 @@ To start off, a directory of who we are and what exactly are we doing:
 -   [What Is Coding Dojo](/WhatIsCodingDojo)
 -   [Coding Dojos](/CodingDojos)
 -   [Who's Who](/people/)
--   [Kata Catalogue](/KataCatalogue)
+-   [Kata Catalogue](/kata/)
 -   [My First Dojo](/MyFirstDojo) (some pragmatic suggestions for how a
     Dojo might work)
 

@@ -10,7 +10,7 @@ RUN apt-get update \
       wget \
     && apt-get clean
 
-RUN wget https://github.com/spf13/hugo/releases/download/v0.31/hugo_0.31_Linux-64bit.deb -O /tmp/hugo.deb \
+RUN wget https://github.com/spf13/hugo/releases/download/v0.37.1/hugo_0.37.1_Linux-64bit.deb -O /tmp/hugo.deb \
  && dpkg -i /tmp/hugo.deb \
  && rm -f /tmp/hugo.deb
 
