@@ -13,6 +13,9 @@ Build a text generator based on a Markov Chain.
 
 **En fraçais dans un premier temps**
 
+Faire un programme qui prend deux paramètres : un entier (pour demander un nombre de mots) et un texte (qui sert de base d'apprentissage); et qui génère un autre texte (de la longueur du paramètre.
+
+Alternative :
 Il faut faire un logiciel en deux partie.
 
 Une première partie qui analyse un texte pour en extraire des statistiques. Chaque mot doit avoir la liste des mots possible suivant avec un pourcentage d'apparition. 
