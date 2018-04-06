@@ -77,13 +77,5 @@ Sample output:
 
     White wins. - with high card: Ace 
     Black wins. - with full house: 4 over 2 
-    Black wins. - with high card: King
+    Black wins. - with high card: 9
     Tie.
-
-**Comments from those who are working on this Kata**
-
-I found a reference to this Kata on [IvanSanchez](/people/IvanSanchez)
-blog: isanchez.net/2009/04/19/ruby-coding-dojo-this-week/
-
-The 3d rows should result in Black winning, not White since 2H 3D 5S 9C
-KD is higher than 2C 3H 4S 8C KH
