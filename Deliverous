@@ -4,6 +4,9 @@ hugo:
   - ip: front
     container_port: 80
     host_port: 80
+  - ip: front
+    container_port: 443
+    host_port: 443
   environment:
     TLS_DOMAINS: codingdojo.org
     TLS_EMAIL: tom@tcweb.org
