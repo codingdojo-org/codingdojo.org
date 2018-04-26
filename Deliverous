@@ -1,0 +1,10 @@
+hugo:
+  image: codingdojoorg/codingdojo.org
+  ports:
+  - ip: front
+    container_port: 80
+    host_port: 80
+  environment:
+    TLS_DOMAINS: codingdojo.org
+    TLS_EMAIL: tom@tcweb.org
+
