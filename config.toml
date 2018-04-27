@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseurl = "http://codingdojo.org/"
+baseurl = "//codingdojo.org/"
 title = "Coding Dojo"
 theme = "template-hugo-codingdojo"
 metadataformat = "yaml"
