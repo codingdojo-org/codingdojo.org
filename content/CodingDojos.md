@@ -29,6 +29,7 @@ North America
     Dojo\]](http://groups.google.com/group/austin-code-dojo)
 -   [\[Orlando Coding Dojo\]](http://orlandodojo.org)
 -   [\[Dojo in Sainte-Dorothée, QC\]](https://twitter.com/dojosaintedo)
+-   [\[Greater Boston Agile Coding Dojo\]](https://meetup.com/Greater-Boston-Coding-Dojo)
 
 Europe
 ------
