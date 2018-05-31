@@ -21,4 +21,10 @@ Where `rateProvider` is a function with this signature :
 
     rateProvider(FromCurrency, ToCurrency) -> float
 
+# Suggested rates sources
 
+Some APIs can be used to provides rates:
+
+ * `http://api.fixer.io/`
+ * `https://finance.google.com/`
+ * `http://query.yahooapis.com/`
