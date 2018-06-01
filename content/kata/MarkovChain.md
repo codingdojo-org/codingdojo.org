@@ -11,7 +11,7 @@ Build a text generator based on a Markov Chain.
 
 [more detail on wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
 
-**En fraçais dans un premier temps**
+**En français dans un premier temps**
 
 Faire un programme qui prend deux paramètres : un entier (pour demander un nombre de mots) et un texte (qui sert de base d'apprentissage); et qui génère un autre texte (de la longueur du paramètre.
 
