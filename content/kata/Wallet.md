@@ -7,21 +7,27 @@ Given a Wallet they contain Stocks like Euros, bitcoins and Dollars, build a fun
 
 # Object
 
-    Value value = Wallet(Stock(5, USD)).value(EUR, rateProvider)
+    Value value = Wallet(Stock(5, PETROLEUM)).value(EUR, rateProvider)
+
+Where `PETROLEUM` is a `StockType`, which could be flour or dollars.
 
 With `rateProvider` an implementation of this interface :
 
     rateProvider.rate(FromCurrency, ToCurrency) -> Amount
 
-An `Amount` has two attributes a value (float typed) and a currency.
+An `Amount` has two attributes: a value (float typed) and a `Currency`.
 
 # Functional
 
-    Value value = compute_value(Wallet(Stock(5, USD), EUR, rateProvider))
+    Value value = compute_value(Wallet(Stock(5, PETROLEUM), EUR, rateProvider))
+
+Where `PETROLEUM` is a `StockType`, which could be flour or dollars.
 
 Where `rateProvider` is a function with this signature :
 
     rateProvider(FromCurrency, ToCurrency) -> Amount
+
+An `Amount` has two attributes: a value (float typed) and a `Currency`.
 
 # Suggested rates sources
 
