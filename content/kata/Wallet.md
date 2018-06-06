@@ -26,5 +26,5 @@ Where `rateProvider` is a function with this signature :
 Some APIs can be used to provides rates:
 
  * `http://api.fixer.io/`
+ * `https://1forge.com/forex-data-api`
  * `https://finance.google.com/`
- * `http://query.yahooapis.com/`
