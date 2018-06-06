@@ -11,7 +11,9 @@ Given a Wallet they contain Stocks like Euros, bitcoins and Dollars, build a fun
 
 With `rateProvider` an implementation of this interface :
 
-    rateProvider.rate(FromCurrency, ToCurrency) -> float
+    rateProvider.rate(FromCurrency, ToCurrency) -> Amount
+
+An `Amount` has two attributes a value (float typed) and a currency.
 
 # Functional
 
@@ -19,7 +21,7 @@ With `rateProvider` an implementation of this interface :
 
 Where `rateProvider` is a function with this signature :
 
-    rateProvider(FromCurrency, ToCurrency) -> float
+    rateProvider(FromCurrency, ToCurrency) -> Amount
 
 # Suggested rates sources
 
