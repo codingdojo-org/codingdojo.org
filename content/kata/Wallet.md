@@ -3,31 +3,37 @@ title: "Wallet"
 date: 2018-03-30
 ---
 
-Given a Wallet they contain Stocks like Euros, bitcoins and Dollars, build a function they compute the value of wallet in an other currency.
+Given a Wallet containing Stocks, build a function that compute the value of wallet in an other currency.
+
+# General
+
+The Stocks have a quantity (typed float) and a StockType. The StockType can be for example petroleum, Euros, bitcoins and Dollars.
+
+The portfolio is valued using an Amount which has two attributes: a value (typed float) and a Currency.
+
+The portfolio is valued using a RateProvider who provides the price of a single unit of a stock in a currency.  
+
+The Currency has an IsoCode (EUR, XBT,...), a Symbol (€, ฿,...) and a precision (2, 9,...).
 
 # Object
 
     Value value = Wallet(Stock(5, PETROLEUM)).value(EUR, rateProvider)
 
-Where `PETROLEUM` is a `StockType`, which could be flour or dollars.
-
 With `rateProvider` an implementation of this interface :
 
     rateProvider.rate(FromCurrency, ToCurrency) -> Amount
 
-An `Amount` has two attributes: a value (float typed) and a `Currency`.
+and `PETROLEUM` is a `StockType` and `EUR` is a Currency.
 
 # Functional
 
     Value value = compute_value(Wallet(Stock(5, PETROLEUM), EUR, rateProvider))
 
-Where `PETROLEUM` is a `StockType`, which could be flour or dollars.
-
 Where `rateProvider` is a function with this signature :
 
     rateProvider(FromCurrency, ToCurrency) -> Amount
 
-An `Amount` has two attributes: a value (float typed) and a `Currency`.
+and `PETROLEUM` is a `StockType` and `EUR` is a Currency.
 
 # Suggested rates sources
 
