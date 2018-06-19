@@ -1,5 +1,5 @@
 ---
-title: "KataGameOfLife"
+title: "Game of life"
 draft: false
 date: "2014-11-14T00:12:00"
 aliases:
@@ -8,15 +8,14 @@ aliases:
 ---
     **About this Kata**
 
-This was presented as a [PreparedKata](/PreparedKata) at XP2005, by
-Emmanuel Gaillot.
+This was presented as a [PreparedKata](/PreparedKata) at XP2005, by Emmanuel Gaillot.
 
 Difficulty - medium
 
 Similar Katas - [KataMinesweeper](/kata/Minesweeper) ,
 [KataReversi](/kata/Reversi)
 
-**Problem Description**
+# Problem Description
 
 This Kata is about calculating the next generation of Conway's game of
 life, given any starting position. See
@@ -35,7 +34,7 @@ generation of the grid, follow these rules:
 You should write a program that can accept an arbitrary grid of cells,
 and will output a similar grid showing the next generation.
 
-**Clues**
+# Clues
 
 The input starting position could be a text file that looks like this:
 
@@ -55,16 +54,18 @@ And the output could look like this:
     ...**...
     ........
 
-The input format is similar to that in
-[KataMinesweeper](/kata/Minesweeper) , and is easily parsed in most
-languages.
+The input format is similar to that in [KataMinesweeper](/kata/Minesweeper), and is easily parsed in most languages.
 
-**Suggested Test Cases** Make sure you have enough coverage of edge
+# Front End
+
+Make a beautiful IHM to render grid of any size in one page.
+
+# Suggested Test Cases
+Make sure you have enough coverage of edge
+
 cases - where there are births and deaths at the edge of the grid.
 
-**Comments from those who are working on this Kata**
-
----
+# Comments from those who are working on this Kata
 
 One possible solution in Java:
 <https://github.com/fabricejeannet/kataGameOfLife>
