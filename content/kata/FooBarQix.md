@@ -4,7 +4,7 @@ draft: false
 date: "2017-09-27T13:23:00"
 ---
 
-You should implements a function String compute(String) which implements the following rules.
+You should implement a function String compute(String) which implements the following rules.
 
 ## Step 1
 ### Rules
