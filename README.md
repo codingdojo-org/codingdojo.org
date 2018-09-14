@@ -58,4 +58,3 @@ If you have an old page here (for your dojo, for yourself in people, etc)
 and want it to be removed without having to clone/install, 
 just open an issue and ask for the removal. Other option, make a Pull Request.
 
-
