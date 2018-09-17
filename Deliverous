@@ -10,4 +10,8 @@ hugo:
   environment:
     TLS_DOMAINS: codingdojo.org
     TLS_EMAIL: tom@tcweb.org
+  volumes:
+  - name: letsencrypt
+    path: /etc/letsencrypt
+
 
