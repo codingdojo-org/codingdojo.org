@@ -45,11 +45,10 @@ has one more point than his opponent, the score of the game is
 
 -   <http://github.com/follesoe/TennisKataJava> Example solution in Java
     from Trondheim Coding Dojo
--   <http://bitbucket.org/alf.lervag/tenniskata> Example solution in
-    .NET from Trondheim Coding Dojo
 -   <http://github.com/goeran/Katas/tree/master/Tennis/csharp/2ndTry/>
     Example solution in .NET
 -   <https://github.com/lroal/Roald/tree/master/src/Roald.Katas> Example
     solution in .NET with state transition tree
-
+-   <https://github.com/keithn/vsvimguide/blob/master/Examples/Kata.Tennis/TennisScoring.cs>
+    Simple one file example in C# .NET Core
 
