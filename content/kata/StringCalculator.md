@@ -54,8 +54,14 @@ Calling `add` with multiple errors will return all error messages separated by n
 
 > `"-1,,2"` is invalid and return the message `"Negative not allowed : -1\nNumber expected but ',' found at position 3."`
 
-## Exceptions
-Make the `add` function return a number instead of a String, and use exceptions for the error messages.
+## Errors management
+
+Introduce an internal `add` function returning a number instead of a String, and test many solutions for the error messages.
+- Exception
+- `maybe` and monad approch
+- POSIX return code with message managemement
+- tuple with error struct like in Go
+- etc.
 
 ## Other operations
 Write a function for multiply with same rules
