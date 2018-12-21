@@ -42,6 +42,8 @@ Open your browser on `http://localhost:1313` and start your favorite editor!
 
 ## Content contribution
 
+### Add new pages
+
 To add content create a new markdown file with this minimal front matter :
 
 ```
@@ -55,6 +57,9 @@ and submit a pull request.
 
 To add a dojo session add your content in `content/dojo/` directory, to add a new kata, use `content/kata/` directory.
 
+### Translation
+
+To translate a page, add a page named `MyPage.LANG.md` for exemple the french translation of FizzBuzz kata [FizzBuzz.md](/content/kata/FizzBuzz.md) is located in file [FizzBuzz.fr.md](/content/kata/FizzBuzz.fr.md)
 
 ## Special notes
 
