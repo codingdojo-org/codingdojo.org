@@ -1,5 +1,5 @@
 ---
-title: "KataQotdCgi"
+title: "Quote of the day"
 draft: false
 date: "2010-07-31T21:05:00"
 aliases:

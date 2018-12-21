@@ -1,5 +1,5 @@
 ---
-title: "KataGreed"
+title: "Greed"
 draft: false
 date: "2010-07-11T22:18:00"
 aliases:

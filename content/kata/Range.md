@@ -1,5 +1,5 @@
 ---
-title: "KataRange"
+title: "Range"
 draft: false
 date: "2009-12-08T04:09:00"
 aliases:

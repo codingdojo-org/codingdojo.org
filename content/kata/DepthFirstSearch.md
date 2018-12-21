@@ -1,5 +1,5 @@
 ---
-title: "KataDepthFirstSearch"
+title: "Depth first search"
 draft: false
 date: "2009-08-18T10:40:00"
 aliases:

@@ -1,5 +1,5 @@
 ---
-title: "KataPacMan"
+title: "PacMan"
 draft: false
 date: "2010-07-09T16:49:00"
 aliases:

@@ -1,5 +1,5 @@
 ---
-title: "Kata Markov Chain"
+title: "Markov Chain"
 draft: false
 date: "2017-05-17T12:46:00"
 ---

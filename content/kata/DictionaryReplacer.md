@@ -1,5 +1,5 @@
 ---
-title: "KataDictionaryReplacer"
+title: "Dictionary replacer"
 draft: false
 date: "2010-11-24T14:19:00"
 aliases:

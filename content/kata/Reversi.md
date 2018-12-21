@@ -1,5 +1,5 @@
 ---
-title: "KataReversi"
+title: "Reversi"
 draft: false
 date: "2011-02-10T18:20:00"
 aliases:

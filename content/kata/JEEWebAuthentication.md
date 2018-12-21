@@ -1,5 +1,5 @@
 ---
-title: "KataJEEWebAuthentication"
+title: "JEE WebAuthentication"
 draft: false
 date: "2010-10-28T12:25:00"
 aliases:

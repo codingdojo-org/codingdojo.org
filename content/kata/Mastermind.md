@@ -1,5 +1,5 @@
 ---
-title: "Kata Mastermind"
+title: "Mastermind"
 draft: false
 date: "2017-09-27T12:46:00"
 aliases:

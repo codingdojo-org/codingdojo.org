@@ -1,5 +1,5 @@
 ---
-title: "KataTradingCardGame"
+title: "Trading Card Game"
 draft: false
 date: "2014-11-13T16:32:00"
 aliases:

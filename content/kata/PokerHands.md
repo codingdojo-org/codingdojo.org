@@ -1,5 +1,5 @@
 ---
-title: "KataPokerHands"
+title: "Poker Hands"
 draft: false
 date: "2012-09-02T17:25:00"
 aliases:

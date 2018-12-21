@@ -35,7 +35,7 @@ libellé du produit     Quantité   Prix unitaire  Prix total
 -----------------------------------------------------------
 Total HT                                              XXXXX
 Réduction X%                                           -YYY
-TVA Y%                                                 +ZZZ                                    
+TVA Y%                                                 +ZZZ
 -----------------------------------------------------------
 Total TTC                                            XXXXXX
 ```

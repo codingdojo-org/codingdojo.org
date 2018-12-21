@@ -2,12 +2,8 @@
 title: "FizzBuzz"
 draft: false
 date: "2018-01-28"
-aliases:
-  - "/KataFizzBuzz"
-
 ---
 
-  
 Vous devez construire une fonction `fizzBuzz` qui transforme un entier en chaine de carractères selon les règles suivantes.
 
 ## Règles

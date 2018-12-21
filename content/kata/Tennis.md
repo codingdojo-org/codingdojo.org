@@ -1,5 +1,5 @@
 ---
-title: "KataTennis"
+title: "Tennis"
 draft: false
 date: "2011-02-22T14:30:00"
 aliases:

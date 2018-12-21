@@ -36,7 +36,7 @@ label of item     Quantity   Unit price   Total price
 -----------------------------------------------------
 Total without taxes                             XXXXX
 Discout X%                                       -YYY
-Tax Y%                                           +ZZZ                                    
+Tax Y%                                           +ZZZ
 -----------------------------------------------------
 Total price                                    XXXXXX
 ```

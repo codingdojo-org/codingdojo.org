@@ -1,5 +1,5 @@
 ---
-title: "KataWordWrap"
+title: "Word wrap"
 draft: false
 date: "2011-12-20T23:00:00"
 aliases:

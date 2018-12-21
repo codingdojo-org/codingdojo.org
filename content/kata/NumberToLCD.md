@@ -1,5 +1,5 @@
 ---
-title: "KataNumberToLCD"
+title: "Number to LCD"
 draft: false
 date: "2009-11-04T19:25:00"
 aliases:
