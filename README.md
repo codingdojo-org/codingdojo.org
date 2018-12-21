@@ -10,13 +10,14 @@ Then clone your fork and the official CodingDojo template:
 
     git clone git@github.com:_your_account_/codingdojo.org.git
     cd codingdojo.org
-    
+
     # themes are on a separate project that you need to clone too (don't worry, it's in the `.gitignore` for this repo)
     git clone https://github.com/codingdojo-org/template-hugo-codingdojo themes/template-hugo-codingdojo
 
 This site works with [Hugo static site generator](https://gohugo.io/) which you can either
 [install locally](https://gohugo.io/getting-started/installing/) or use through the provided
 `Dockerfile`.
+
 
 ### Using Hugo locally
 
@@ -38,6 +39,22 @@ Assuming you have [Docker](https://www.docker.com/community-edition) installed, 
 You only need to build the image once.
 
 Open your browser on `http://localhost:1313` and start your favorite editor!
+
+## Content contribution
+
+To add content create a new markdown file with this minimal front matter :
+
+```
+---
+title: "The title of page"
+date: "YYYY-MM-DD"
+---
+```
+
+and submit a pull request.
+
+To add a dojo session add your content in `content/dojo/` directory, to add a new kata, use `content/kata/` directory.
+
 
 ## Special notes
 
