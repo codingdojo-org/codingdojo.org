@@ -1,3 +1,5 @@
+ ![Build docker](https://img.shields.io/docker/build/codingdojoorg/codingdojo.org.svg)
+
 # CodingDojo.org
 
 This repo holds the content for [CodingDojo.org](http://codingdojo.org/) and some tools
