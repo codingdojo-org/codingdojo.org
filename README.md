@@ -25,7 +25,7 @@ Note that the current version of Hugo (0.34 as of this writing) seems to have pr
 the content is laid out in this repo.  Older versions (like 0.26 in the Docker image) work fine.
 
     # serve local files with live-reload
-    hugo server -w
+    make hugo
 
 Open your browser on `http://localhost:1313` and start your favorite editor!
 
@@ -33,10 +33,8 @@ Open your browser on `http://localhost:1313` and start your favorite editor!
 
 Assuming you have [Docker](https://www.docker.com/community-edition) installed, you build an image and run it:
 
-	docker build -t codingdojo .
-	docker run -p 1313:1313 --rm -it -v $(pwd):/site codingdojo hugo server -w --bind 0.0.0.0
-
-You only need to build the image once.
+    make docker-dev
+    make hugo
 
 Open your browser on `http://localhost:1313` and start your favorite editor!
 
