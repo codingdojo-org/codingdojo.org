@@ -7,14 +7,18 @@ to help you work on the site locally.
 
 ## Contributing
 
-If you want to contribute, first fork the repo at [GitHub](https://github.com/codingdojo-org/codingdojo.org).
-Then clone your fork and the official CodingDojo template:
+If you want to contribute, first fork repos :
+
+- [Website](https://github.com/codingdojo-org/codingdojo.org).
+- [Theme](https://github.com/codingdojo-org/template-hugo-codingdojo).
+
+Then clone your fork and the CodingDojo template:
 
     git clone git@github.com:_your_account_/codingdojo.org.git
     cd codingdojo.org
 
     # themes are on a separate project that you need to clone too (don't worry, it's in the `.gitignore` for this repo)
-    git clone https://github.com/codingdojo-org/template-hugo-codingdojo themes/template-hugo-codingdojo
+    git clone git@github.com:_your_account_/template-hugo-codingdojo themes/template-hugo-codingdojo
 
 This site works with [Hugo static site generator](https://gohugo.io/) which you can either
 [install locally](https://gohugo.io/getting-started/installing/) or use through the provided
@@ -31,7 +35,7 @@ the content is laid out in this repo.  Older versions (like 0.26 in the Docker i
 
 Open your browser on `http://localhost:1313` and start your favorite editor!
 
-### Using Hugo from the `Dockerfile`
+### Using Hugo from the docker container
 
 Assuming you have [Docker](https://www.docker.com/community-edition) installed, you build an image and run it:
 
