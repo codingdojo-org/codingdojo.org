@@ -23,7 +23,19 @@ Start off by recreating the current system Santa has.
 
 Currently his system allows a single delivery elf to move presents onto his Sleigh:
 
-    Toy Machine --> (Gives Present) -> Elf --> (Packs onto) --> Santa Sleigh
+    Toy Machine
+         |
+         V
+    (Gives Present)
+         |
+         V
+        Elf
+         |
+         V
+    (Packs onto)
+         |
+         V
+    Santa Sleigh
 
 
 Once a delivery elf has a present it will take him a while to put it onto Santa's Sleigh. Once he has he calls back to say he's available to transport another present.
