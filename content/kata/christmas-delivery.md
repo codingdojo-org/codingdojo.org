@@ -28,7 +28,7 @@ Currently his system allows a single delivery elf to move presents onto his Slei
 
 Once a delivery elf has a present it will take him a while to put it onto Santa's Sleigh. Once he has he calls back to say he's available to transport another present.
 
-## User Story 2
+## User Story 2
 
 Santa has asked Mrs Claus to organise a number of delivery elves who will put presents onto his Sleigh.
 
@@ -36,7 +36,7 @@ Mrs Claus will operate as a present receiver for the Toy Machines. She will then
 
     Toy Machine [1-N] -> (Gives Present) -> Mrs Claus --> (Gives Present) -> Elf [1-N] --> (Packs onto) --> Santa Sleigh
 
-## User Story 3
+## User Story 3
 
 Each present forms part of a families delivery, which consist of 1..N presents.
 
