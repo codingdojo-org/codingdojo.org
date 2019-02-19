@@ -10,7 +10,7 @@ aliases:
 ----------
 
 A Coding Dojo is a meeting where a bunch of coders get together to work
-on a programming challenge. They are there have fun and to engage in
+on a programming challenge. They are there to have fun and to engage in
 [DeliberatePractice](/DeliberatePractice) in order to improve their
 skills.
 
