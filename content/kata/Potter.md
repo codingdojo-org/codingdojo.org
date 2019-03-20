@@ -80,7 +80,6 @@ come along.
 
     def testBasics
       assert_equal(0, price([]))
-      assert_equal(8, price([0]))
       assert_equal(8, price([1]))
       assert_equal(8, price([2]))
       assert_equal(8, price([3]))
