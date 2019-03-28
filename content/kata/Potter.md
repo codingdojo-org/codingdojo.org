@@ -85,7 +85,6 @@ come along.
       assert_equal(8, price([2]))
       assert_equal(8, price([3]))
       assert_equal(8, price([4]))
-      assert_equal(8 * 2, price([0, 0]))
       assert_equal(8 * 3, price([1, 1, 1]))
     end
 
