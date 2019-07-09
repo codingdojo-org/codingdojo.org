@@ -29,7 +29,7 @@ and `PETROLEUM` is a `StockType` and `EUR` is a Currency.
 
 Where `rateProvider` is a function with this signature :
 
-    rateProvider(FromCurrency, ToCurrency) -> Amount
+    rateProvider(FromStockType, ToCurrency) -> Amount
 
 and `PETROLEUM` is a `StockType` and `EUR` is a Currency.
 
