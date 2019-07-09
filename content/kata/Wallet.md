@@ -18,7 +18,7 @@ To value the portfilio in a Currency you can use external api to provide rate ex
 
 With `rateProvider` an implementation of this interface :
 
-    rateProvider.rate(FromCurrency, ToCurrency) -> Amount
+    rateProvider.rate(FromStockType, ToCurrency) -> Amount
 
 and `PETROLEUM` is a `StockType` and `EUR` is a Currency.
 
