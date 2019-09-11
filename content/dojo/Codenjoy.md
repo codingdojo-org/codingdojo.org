@@ -18,7 +18,7 @@ You just write an algorithm that will play old school games. Try to defeat the o
 
 In Japan, a dojo is a place for trainings, competitions, and attestations in martial arts like aikido, judo, or jujitsu. Figuratively speaking, it is a place where we learn self-discipline, exchange knowledge, and help each other to become better. Engineers decided to borrow the term dojo for programming — we express ourselves through code, which is a craft requiring a place to master new skills. Inspiring, is it not?
 
-My name is [Oleksandr Baglai](http://apofig.com) and I started as an engineer on a project in another company. In my free time I helped colleagues learn new technologies and conducted trainings for them. I met software architect [Sergii Zelenin](http://szelenin.blogspot.com/) while working on a training on test-driven development, and later we heard about Coding Dojo when Sergii was invited to a conference demonstrate a kata with engineer Johannes Brodwall. There they used a different language, so Sergii and I decided to start our own dojo.
+My name is [Oleksandr Baglai](mailto:apofig@gmail.com) and I started as an engineer on a project in another company. In my free time I helped colleagues learn new technologies and conducted trainings for them. I met software architect [Sergii Zelenin](http://szelenin.blogspot.com/) while working on a training on test-driven development, and later we heard about Coding Dojo when Sergii was invited to a conference demonstrate a kata with engineer Johannes Brodwall. There they used a different language, so Sergii and I decided to start our own dojo.
 
 That is how codenjoy was born. Now we organize events globally around the world. Over 200 events over the past 3 years. More than 5000 participants.	
 
