@@ -12,6 +12,7 @@ This Kata was developed to show how overspecification of assertions harms mainta
 A blog post with a possible solution can be found here: https://dev.to/webpapaya/writing-better-test-assertions-lml
 
 **Problem Description**
+
 You're building an employee management system of a local grocery store. The shop-owner wants to open the shop on Sunday and due to legal restrictions employees younger than 18 years are not allowed to work Sundays. The employee asks for a reporting feature so she can schedule work shifts. All employees are already stored somewhere and have the following properties:
 
 - name: string (the name of the employee)
@@ -27,6 +28,7 @@ const employees = [
 ```
 
 **Rules**
+
 Start with the first user-story and write at least one test for every requirement. Try not to look on future requirements upfront and follow the TDD-Cycle strictly.
 
 - As shop owner I want to view a list of all employees, which are older than 18 years, so that I know who is allowed to work on Sundays.
