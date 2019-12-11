@@ -35,7 +35,7 @@ You should implement a function String compute(String) which implements the foll
 
 ## Step 2
 
-We have a new business request : we must keep a trace of 0 in numbers, each 0 must be replace par char "*".
+We have a new business request: we must keep a trace of 0 in numbers, each 0 must be replaced by char "*".
 
 ### Examples
     
