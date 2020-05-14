@@ -40,13 +40,35 @@ Class LeapYearChecker{
       Iterator<String> inputLines = inputs.iterator();
       
       while(inputLines.hasNext()){
+         StringTokenizer tokens = new StringTokenizer(inputLines.next());
+         int year = Integer.parseInt(tokens.nextToken());
+         if(year<0){
+           reader.close();
+           throw new Exception("Year cannot be negative");
+         }
          
+         String printStatementForLeapYear = " is not a Leap Year.";
+         if(isLeapYear(year)){
+           printStatementForLeapYear = " is a Leap Year.";
+         }
+         System.out.println("Year " + year + printStatementForLeapYear);
       } 
       
       reader.close();
    }
    
-   static boolean isLeapYear(){
-   
+   static boolean isLeapYear(int year){
+     if(year % 400 == 0){
+      return true;
+     }
+     else if(year % 100 == 0){
+      return false;
+     }
+     else if(year % 4 ==0 ){
+      return true;
+     }
+     else {
+      return false;
+     }
    }
 }
