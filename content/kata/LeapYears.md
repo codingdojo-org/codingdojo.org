@@ -41,8 +41,8 @@ Class LeapYearChecker{
       
       while(inputLines.hasNext()){
          StringTokenizer tokens = new StringTokenizer(inputLines.next());
-         int year = Integer.parseInt(tokens.nextToken());
-         if(year<0){
+         BigInteger year = new BigInteger(tokens.nextToken());
+         if(year.compareTo(BigInteger.ZERO)==-1){
            reader.close();
            throw new Exception("Year cannot be negative");
          }
@@ -57,11 +57,11 @@ Class LeapYearChecker{
       reader.close();
    }
    
-   static boolean isLeapYear(int year){
-     if(year%4!= 0){
+   static boolean isLeapYear(BigInteger year){
+     if(year.remainder(new BigInteger("4"))!= BigInteger.ZERO){
       return false;
      }
-     else if(year % 100 == 0 && year%400!=0){
+     else if(year.remainder(new BigInteger("100"))==BigInteger.ZERO && year.remainder(new BigInteger("400"))!=BigInteger.ZERO){
       return false;
      }
      return true;
