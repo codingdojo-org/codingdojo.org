@@ -38,3 +38,8 @@ The Booking struct contains
 And the Room struct contain only
 
 * room name
+
+## Source
+
+*  inspiration source of this kata : https://github.com/tpierrain/CQRS/
+*  explanation of CQRS by Microsoft https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591573(v=pandp.10)
