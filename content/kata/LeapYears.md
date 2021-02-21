@@ -24,3 +24,51 @@ Acceptance Criteria:
 3.	All years divisible by 4 but not by 100 ARE leap years (e.g., 2008, 2012, 2016),
 4.	All years not divisible by 4 are NOT leap years (e.g. 2017, 2018, 2019).
 
+##########################################################################################################################
+
+                                                  Code Starts Here
+
+##########################################################################################################################
+import java.io.*;
+import java.util.*;
+
+Class LeapYearChecker{
+   
+   public static void main(String[] args) throws Exception{ 
+      BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(args[0])));
+      Stream<String> inputs = reader.lines();
+      Iterator<String> inputLines = inputs.iterator();
+      
+      while(inputLines.hasNext()){
+         StringTokenizer tokens = new StringTokenizer(inputLines.next());
+         int year = Integer.parseInt(tokens.nextToken());
+         if(year<0){
+           reader.close();
+           throw new Exception("Year cannot be negative");
+         }
+         
+         String printStatementForLeapYear = " is not a Leap Year.";
+         if(isLeapYear(year)){
+           printStatementForLeapYear = " is a Leap Year.";
+         }
+         System.out.println("Year " + year + printStatementForLeapYear);
+      } 
+      
+      reader.close();
+   }
+   
+   static boolean isLeapYear(int year){
+     if(year % 400 == 0){
+      return true;
+     }
+     else if(year % 100 == 0){
+      return false;
+     }
+     else if(year % 4 ==0 ){
+      return true;
+     }
+     else {
+      return false;
+     }
+   }
+}
